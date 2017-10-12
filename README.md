@@ -1,7 +1,7 @@
 # GET_FE
 FED各种知识点
 ···javascript
-document.getElementById('tony').innerHTML = 'Hello World!'
+document.getElementById('tony').innerHTML = 'Hello World!';
 ···
 #一、webpack
 #二、CSS
