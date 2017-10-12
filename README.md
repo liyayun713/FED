@@ -1,7 +1,7 @@
 # FED前端各知识点整理
-···javascript
+```javascript
 document.getElementById('tony').innerHTML = 'Hello World!';
-···
+```
 ## 一、webpack
 ## 二、CSS
 ## 三、Vue
