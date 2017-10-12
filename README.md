@@ -5,6 +5,6 @@ document.getElementById('tony').innerHTML = 'Hello World!';
 ## 一、webpack
 ## 二、CSS
 ## 三、Vue
-  1、双向数据绑定原理
-  2、vuex
-  3、vue-router
+  1、双向数据绑定原理<br>
+  2、vuex<br>
+  3、vue-router<br>
