@@ -1,6 +1,6 @@
 # FED前端知识点整理
 ```javascript
-document.getElementById('tony').innerHTML = 'Hello World!';
+document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 ```
 ## 一、JS篇
   [1、this call apply bind](http://www.baidu.com)<br>
