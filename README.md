@@ -33,7 +33,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [1、HTML5新特性](http://www.baidu.com)<br>
   [2、常用meta头](http://www.baidu.com)<br>
 ## 四、综合
-  [1、从输入URL到页面加载过程](http://www.baidu.com)<br>
+  [1、从输入URL到页面加载过程](http://www.baidu.com)<br>
   [2、跨域](http://www.baidu.com)<br>
   [3、缓存机制](http://www.baidu.com)<br>
   [4、轮播的实现](http://www.baidu.com)<br>
@@ -57,7 +57,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [4、VDOM](http://www.baidu.com)<br>
   [5、SSR](http://www.baidu.com)<br>
 ## 七、ES6
-  [1、promise 手写一个ajax的promise封装](http://www.baidu.com)<br>
+  [1、promise 手写一个ajax的promise封装](http://www.baidu.com)<br>
   [2、let const](http://www.baidu.com)<br>
   [3、Promise Generator Async比较](https://segmentfault.com/a/1190000010914001)<br>
   [4、class与es5中的prototype区别](http://www.baidu.com)<br>
@@ -106,10 +106,10 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 ## 十六、Canvas
   [1、绘制散点曲线](http://www.baidu.com)<br>
   [2、高阶贝塞尔曲线拟合](http://www.baidu.com)<br>
-  [3、监听点击事件](http://www.baidu.com)<br>
+  [3、监听点击事件](http://www.baidu.com)<br>
 ## 十七、版本管理
   [1、Git](http://www.baidu.com)<br>
-  [2、SVN](http://www.baidu.com)<br>
+  [2、SVN](http://www.baidu.com)<br>
 ## 十八、源码解读
   [1、Vue](http://www.baidu.com)<br>
   [2、Jquery](http://www.baidu.com)<br>
