@@ -8,3 +8,6 @@ document.getElementById('tony').innerHTML = 'Hello World!';
   [1、双向数据绑定原理](http://www.baidu.com)<br>
   [2、vuex](http://www.baidu.com)<br>
   [3、vue-router](http://www.baidu.com)<br>
+  * 1
+  * 2
+  * 3
