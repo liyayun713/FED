@@ -87,6 +87,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [1、cookie](http://www.baidu.com)<br>
   [2、localStorage sessionStorage](http://www.baidu.com)<br>
   [3、indexDB](http://www.baidu.com)<br>
+	[4、HTTP缓存](http://www.baidu.com)<br>
 ## 十二、模块化
   [1、AMD CMD cocommonJS](http://www.baidu.com)<br>
   [2、requirejs seajs](http://www.baidu.com)<br>
