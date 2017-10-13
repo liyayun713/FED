@@ -33,8 +33,8 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [1、HTML5新特性](http://www.baidu.com)<br>
   [2、常用meta头](http://www.baidu.com)<br>
 ## 四、综合
-  [1、从输入URL到页面加载过程](http://www.baidu.com)<br>
-  [2、跨域](http://www.baidu.com)<br>
+  [1、从输入URL到页面加载过程](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
+  [2、跨域](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
   [3、缓存机制](http://www.baidu.com)<br>
   [4、轮播的实现](http://www.baidu.com)<br>
   [5、懒加载 预加载](http://www.baidu.com)<br>
