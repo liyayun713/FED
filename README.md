@@ -43,7 +43,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [8、爬虫的实现原理](http://www.baidu.com)<br>
 	[9、Javascript设计模式](http://www.baidu.com)<br>
 ## 五、webpack
-  [1、打包原理](http://www.baidu.com)<br>
+  [1、打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
   [2、刷新原理](http://www.baidu.com)<br>
   [3、模块相关](http://www.baidu.com)<br>
   [4、webpack-dev-server热加载更新的原理](http://www.baidu.com)<br>
