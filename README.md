@@ -4,7 +4,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 ```
 ## 一、JS篇
   [1、this call apply bind](http://www.baidu.com)<br>
-  [2、原型 原型链 继承](http://www.baidu.com)<br>
+  2、原型 原型链 继承<br>
   [3、作用域 闭包 堆栈溢出 内存泄漏](http://www.baidu.com)<br>
   [4、异步 单线程 线程](http://www.baidu.com)<br>
   [5、事件机制 事件模型 事件委托](http://www.baidu.com)<br>
