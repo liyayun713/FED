@@ -54,7 +54,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [7、webpack.optimize.UglifyJsPlugin插件的压缩速度很慢](http://www.baidu.com)<br>
   [8、loader原理机制](http://www.baidu.com)<br>
 ## 六、Vue
-  [1、双向数据绑定原理](http://www.baidu.com)<br>
+  [1、双向数据绑定原理](https://github.com/liyayun713/FED/blob/master/Vue/data-bind.md)<br>
   2、vuex<br>
   3、vue-router<br>
   4、VDOM<br>
