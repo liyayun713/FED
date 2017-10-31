@@ -17,5 +17,14 @@
 ```javascript
 // this.$parent.num 和 this.$children.num 可以分别取到父组件和子组件中的值
 ```
-###	二、非父子组件通信---global_bus
+###	二、非父子组件通信---global_bus<br/>
+   创建bus实例，通过import bus from './bus'导入后，使用bus.$emit和bus.$on发射和接收数据
+```html
+// bus.vue
+<script>
+  export default {
+    bus: new Vue()
+  };
+</script>
+```
 ###	三、复杂应用---Vuex
