@@ -3,20 +3,20 @@
 document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 ```
 ## 一、JS篇
-  [1、this call apply bind](http://www.baidu.com)<br>
+  [1、this call apply bind](https://github.com/liyayun713/GET_FE/blob/master/js/this%20call%20apply%20bind.md)<br>
   2、原型 原型链 继承<br>
-  [3、作用域 闭包 堆栈溢出 内存泄漏](http://www.baidu.com)<br>
-  [4、异步 单线程 线程](http://www.baidu.com)<br>
-  [5、事件机制 事件模型 事件委托](http://www.baidu.com)<br>
-  [6、深拷贝 浅拷贝](http://www.baidu.com)<br>
-  [7、DOM操作(增删改查)](http://www.baidu.com)<br>
-  [8、数组去重排序](http://www.baidu.com)<br>
-  [9、柯里化](http://www.baidu.com)<br>
-  [10、创建对象的几种方法](http://www.baidu.com)<br>
-  [11、数据类型判断](http://www.baidu.com)<br>
-  [12、设计模式](http://www.baidu.com)<br>
-  [13、setTimeout setInterval 定时器原理](http://www.baidu.com)<br>
-  [14、怎么获取一个元素到视图顶部的距离 getBoundingClientRect和offsetTop区别](http://www.baidu.com)<br>
+  3、作用域 闭包 堆栈溢出 内存泄漏<br>
+  4、异步 单线程 线程<br>
+  5、事件机制 事件模型 事件委托<br>
+  6、深拷贝 浅拷贝<br>
+  7、DOM操作(增删改查)<br>
+  8、数组去重排序<br>
+  9、柯里化<br>
+  10、创建对象的几种方法<br>
+  11、数据类型判断](http://www.baidu.com)<br>
+  12、设计模式<br>
+  13、setTimeout setInterval 定时器原理<br>
+  14、怎么获取一个元素到视图顶部的距离 getBoundingClientRect和offsetTop区别<br>
 ## 二、CSS篇
   [1、flex布局 弹性盒子 grid布局](http://www.baidu.com)<br>
   [2、IE的怪异盒子模型 标准浏览器的盒模型 box-sizing](http://www.baidu.com)<br>
