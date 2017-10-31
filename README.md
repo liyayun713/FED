@@ -55,13 +55,13 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [8、loader原理机制](http://www.baidu.com)<br>
 ## 六、Vue
   [1、双向数据绑定原理](http://www.baidu.com)<br>
-  [2、vuex](http://www.baidu.com)<br>
-  [3、vue-router](http://www.baidu.com)<br>
-  [4、VDOM](http://www.baidu.com)<br>
-  [5、SSR](http://www.baidu.com)<br>
-	[6、全局API](http://www.baidu.com)<br>
-	[7、Vue单向数据流](http://www.baidu.com)<br>
-	[8、几种组件间通讯的方式](http://www.baidu.com)<br>
+  2、vuex<br>
+  3、vue-router<br>
+  4、VDOM<br>
+  5、SSR<br>
+	6、全局API<br>
+	7、Vue单向数据流<br>
+	8、几种组件间通讯的方式<br>
 ## 七、ES6
   [1、promise 手写一个ajax的promise封装](http://www.baidu.com)<br>
   [2、let const](http://www.baidu.com)<br>
