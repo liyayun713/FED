@@ -1,6 +1,6 @@
 # Vue组件间通信
 ### 一、父子组件通信
-###	   1、props
+###### 1、props
 ```html
 <template>
   <div>
@@ -13,6 +13,9 @@
    // 子组件通过this.$emit('emitMsg', msg)发射，父组件通过@emitMsg="cb"监听属性，触发回调函数
 </script>
 ``` 
-###	    2、使用$parent、$children
+###### 2、使用$parent、$children
+```javascript
+// this.$parent.num 和 this.$children.num 可以分别取到父组件和子组件中的值
+```
 ###	二、非父子组件通信---global_bus
 ###	三、复杂应用---Vuex
