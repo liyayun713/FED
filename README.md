@@ -103,7 +103,8 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [2、响应式开发](http://www.baidu.com)<br>
   [3、touch tap事件](http://www.baidu.com)<br>
   [4、GPU渲染](http://www.baidu.com)<br>
-  [5、SPA首屏空白原因](http://www.baidu.com)<br>  
+  [5、SPA首屏空白原因](http://www.baidu.com)<br>
+	[6、移动端1px边框原理及实现](http://www.baidu.com)<br>
 ## 十四、兼容性专题（PC、移动）
 ## 十五、web安全
   [1、https](http://www.baidu.com)<br>
