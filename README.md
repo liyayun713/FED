@@ -17,6 +17,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   12、设计模式<br>
   13、setTimeout setInterval 定时器原理<br>
   14、怎么获取一个元素到视图顶部的距离 getBoundingClientRect和offsetTop区别<br>
+	15、slice splice substring substr区别<br>
 ## 二、CSS篇
   [1、flex布局 弹性盒子 grid布局](http://www.baidu.com)<br>
   [2、IE的怪异盒子模型 标准浏览器的盒模型 box-sizing](http://www.baidu.com)<br>
@@ -42,6 +43,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [7、如何做前后端分离](http://www.baidu.com)<br>
   [8、爬虫的实现原理](http://www.baidu.com)<br>
 	[9、Javascript设计模式](http://www.baidu.com)<br>
+	[10、高德地图API](http://www.baidu.com)<br>
 ## 五、webpack
   [1、打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
   [2、刷新原理](http://www.baidu.com)<br>
@@ -57,6 +59,9 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [3、vue-router](http://www.baidu.com)<br>
   [4、VDOM](http://www.baidu.com)<br>
   [5、SSR](http://www.baidu.com)<br>
+	[6、全局API](http://www.baidu.com)<br>
+	[7、Vue单向数据流](http://www.baidu.com)<br>
+	[8、几种组件间通讯的方式](http://www.baidu.com)<br>
 ## 七、ES6
   [1、promise 手写一个ajax的promise封装](http://www.baidu.com)<br>
   [2、let const](http://www.baidu.com)<br>
