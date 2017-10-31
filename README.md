@@ -13,7 +13,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   8、数组去重排序<br>
   9、柯里化<br>
   10、创建对象的几种方法<br>
-  11、数据类型判断](http://www.baidu.com)<br>
+  11、数据类型判断<br>
   12、设计模式<br>
   13、setTimeout setInterval 定时器原理<br>
   14、怎么获取一个元素到视图顶部的距离 getBoundingClientRect和offsetTop区别<br>
