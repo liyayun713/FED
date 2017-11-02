@@ -63,7 +63,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 	6、全局API<br>
 	[7、Vue单向数据流](https://github.com/liyayun713/FED/blob/master/Vue/one-way-data-flow.md)<br>
 	[8、几种组件间通讯的方式](https://github.com/liyayun713/FED/blob/master/Vue/component-communication.md)<br>
-	[9、事件机制](https://github.com/liyayun713/FED/blob/master/Vue/component-communication.md)<br>
+	[9、事件机制](https://github.com/liyayun713/FED/blob/master/Vue/Events.md)<br>
 ## 七、ES6
   [1、promise 手写一个ajax的promise封装](http://www.baidu.com)<br>
   [2、let const](http://www.baidu.com)<br>
