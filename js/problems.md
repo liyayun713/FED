@@ -97,3 +97,25 @@ var a = {
 }
 a.log();    // a、window
 ```
+### 知识点：
+  * 立即执行函数
+  * 闭包
+```js
+function a() {
+    var array = []
+    for(var i = 0; i < 3; i++) {
+        array.push(
+            function() {
+                console.log(i)
+            }
+        )
+    }
+    return array
+}
+
+var b = a()
+b[0]()
+b[1]()
+b[2]()
+// 3 3 3
+```
