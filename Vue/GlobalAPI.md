@@ -1,1 +1,12 @@
 # 全局API
+  * Vue.extend
+  * Vue.nextTick
+  * Vue.set
+  * Vue.directive
+  * Vue.delete
+  * Vue.filter
+  * Vue.component
+  * Vue.use
+  * Vue.mixin
+  * Vue.compile
+  * Vue.version
