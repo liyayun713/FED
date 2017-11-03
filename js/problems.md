@@ -1,11 +1,11 @@
 # 一些有趣的js题目
 ```js
-b();
-console.log(a);
+b();              // 'i am b'
+console.log(a);   // undefined
 
 var a = 'i am a';
 
-function () {
+function b () {
   console.log('i am b');
 }
 ```
