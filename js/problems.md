@@ -52,7 +52,7 @@ b.push(3)
 console.log(a, b) // -> 都是 [1, 2, 3]
 ```
 ### 知识点：
-  * this
+  * this
 ```js
 function foo() {
   console.log(this.a)
