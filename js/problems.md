@@ -98,8 +98,8 @@ var a = {
 a.log();    // a、window
 ```
 ### 知识点：
-  * 立即执行函数
-  * 闭包
+  * 立即执行函数
+  * 闭包
 ```js
 function a() {
     var array = []
