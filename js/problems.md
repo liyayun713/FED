@@ -36,3 +36,12 @@ document.addEventListener('click', function(){
 sleep();
 console.log('finish');
 ```
+# 知识点：
+  * JS 共有 6 个基本数据类型，分别为 Boolean, Null, Undefined, Number, String, Symbol，这些类型都是值不可变的；
+  * 对于对象来说，直接将一个对象赋值给另外一个对象就是浅拷贝，两个对象指向同一个地址，其中任何一个对象改变，另一个对象也会被改变;
+```js
+var a = [1, 2]
+var b = a
+b.push(3)
+console.log(a, b) // -> 都是 [1, 2, 3]
+```
