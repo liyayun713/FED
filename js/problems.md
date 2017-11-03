@@ -51,3 +51,22 @@ var b = a
 b.push(3)
 console.log(a, b) // -> 都是 [1, 2, 3]
 ```
+### 知识点：
+  * this
+```js
+function foo() {
+  console.log(this.a)
+}
+var a = 1;
+foo();   // 1
+
+var obj = {
+  a: 2,
+  foo: foo
+}
+obj.foo();    // 2
+
+var c = new foo()
+c.a = 3;
+console.log(c.a);   // 3
+```
