@@ -82,7 +82,7 @@ function a() {
 console.log(a()()());   // window
 ```
 ### 知识点：
-  * 我们只需要考虑函数是怎么调用的，这里符合上述第一个情况，所以应该是指向 window（调用setName()）
+  * 我们只需要考虑函数是怎么调用的，这里符合上述第一个情况，所以应该是指向 window（调用setName()）
 ```js
 var a = {
     name: 'js',
