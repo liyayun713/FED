@@ -18,6 +18,8 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   13、setTimeout setInterval 定时器原理<br>
   14、怎么获取一个元素到视图顶部的距离 getBoundingClientRect和offsetTop区别<br>
 	15、slice splice substring substr区别<br>
+	16、scrollTop、scrollHeight、offsetTop、offsetHeight、clientHeight、clientTop<br>
+	[00、一些有趣的js题目](https://github.com/liyayun713/GET_FE/blob/master/js/problems.md)<br>
 ## 二、CSS篇
   [1、flex布局 弹性盒子 grid布局](http://www.baidu.com)<br>
   [2、IE的怪异盒子模型 标准浏览器的盒模型 box-sizing](http://www.baidu.com)<br>
@@ -59,9 +61,11 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   3、vue-router<br>
   4、VDOM<br>
   5、SSR<br>
-	6、全局API<br>
-	[7、Vue单向数据流](www.baidu.com)<br>
+	[6、全局API](https://github.com/liyayun713/FED/blob/master/Vue/GlobalAPI.md)<br>
+	[7、Vue单向数据流](https://github.com/liyayun713/FED/blob/master/Vue/one-way-data-flow.md)<br>
 	[8、几种组件间通讯的方式](https://github.com/liyayun713/FED/blob/master/Vue/component-communication.md)<br>
+	[9、事件机制](https://github.com/liyayun713/FED/blob/master/Vue/Events.md)<br>
+	[10、VNode](https://github.com/liyayun713/FED/blob/master/Vue/vnode.md)<br>
 ## 七、ES6
   [1、promise 手写一个ajax的promise封装](http://www.baidu.com)<br>
   [2、let const](http://www.baidu.com)<br>
@@ -106,6 +110,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [5、SPA首屏空白原因](http://www.baidu.com)<br>
 	[6、移动端1px边框原理及实现](http://www.baidu.com)<br>
 ## 十四、兼容性专题（PC、移动）
+	1、移动端输入键盘会把fixed定位挤上去
 ## 十五、web安全
   [1、https](http://www.baidu.com)<br>
   [2、xss](http://www.baidu.com)<br>
