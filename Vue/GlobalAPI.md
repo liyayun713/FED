@@ -18,8 +18,19 @@
   new Profile().$mount('#mount-point')
 </script>
 ```
-  * Vue.nextTick
-  * Vue.set
+  * Vue.nextTick<br/>Defer the callback to be executed after the next DOM update cycle. Use it immediately after you’ve changed some data to wait for the DOM update.
+```html
+// modify data
+vm.msg = 'Hello';
+// DOM not updated yet
+Vue.nextTick(function () {
+  // DOM updated
+})
+```
+  * Vue.set<br/>Set a property on an object. If the object is reactive, ensure the property is created as a reactive property and trigger view updates. This is primarily used to get around the limitation that Vue cannot detect property additions.
+```js
+Vue.set(obj, 'key', '1');
+```
   * Vue.directive
   * Vue.delete
   * Vue.filter
