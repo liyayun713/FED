@@ -53,6 +53,7 @@ console.log(a, b) // -> 都是 [1, 2, 3]
 ```
 ### 知识点：
   * this
+  * 箭头函数中的this
 ```js
 function foo() {
   console.log(this.a)
@@ -69,4 +70,14 @@ obj.foo();    // 2
 var c = new foo()
 c.a = 3;
 console.log(c.a);   // 3
+
+// 箭头函数中的this指向
+function a() {
+    return () => {
+        return () => {
+            console.log(this)
+        }
+    }
+}
+console.log(a()()());   // window
 ```
