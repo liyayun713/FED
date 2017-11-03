@@ -17,9 +17,10 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   12、设计模式<br>
   13、setTimeout setInterval 定时器原理<br>
   14、怎么获取一个元素到视图顶部的距离 getBoundingClientRect和offsetTop区别<br>
-	15、slice splice substring substr区别<br>
-	16、scrollTop、scrollHeight、offsetTop、offsetHeight、clientHeight、clientTop<br>
-	[00、一些有趣的js题目](https://github.com/liyayun713/GET_FE/blob/master/js/problems.md)<br>
+  15、slice splice substring substr区别<br>
+  16、scrollTop、scrollHeight、offsetTop、offsetHeight、clientHeight、clientTop<br>
+  17、__proto__与prototype傻傻分不清？<br>
+  [00、一些有趣的js题目](https://github.com/liyayun713/GET_FE/blob/master/js/problems.md)<br>
 ## 二、CSS篇
   [1、flex布局 弹性盒子 grid布局](http://www.baidu.com)<br>
   [2、IE的怪异盒子模型 标准浏览器的盒模型 box-sizing](http://www.baidu.com)<br>
@@ -44,8 +45,8 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [6、前后端协作](http://www.baidu.com)<br>
   [7、如何做前后端分离](http://www.baidu.com)<br>
   [8、爬虫的实现原理](http://www.baidu.com)<br>
-	[9、Javascript设计模式](http://www.baidu.com)<br>
-	[10、高德地图API](http://www.baidu.com)<br>
+  [9、Javascript设计模式](http://www.baidu.com)<br>
+  [10、高德地图API](http://www.baidu.com)<br>
 ## 五、webpack
   [1、打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
   [2、刷新原理](http://www.baidu.com)<br>
@@ -61,11 +62,11 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   3、vue-router<br>
   4、VDOM<br>
   5、SSR<br>
-	[6、全局API](https://github.com/liyayun713/FED/blob/master/Vue/GlobalAPI.md)<br>
-	[7、Vue单向数据流](https://github.com/liyayun713/FED/blob/master/Vue/one-way-data-flow.md)<br>
-	[8、几种组件间通讯的方式](https://github.com/liyayun713/FED/blob/master/Vue/component-communication.md)<br>
-	[9、事件机制](https://github.com/liyayun713/FED/blob/master/Vue/Events.md)<br>
-	[10、VNode](https://github.com/liyayun713/FED/blob/master/Vue/vnode.md)<br>
+  [6、全局API](https://github.com/liyayun713/FED/blob/master/Vue/GlobalAPI.md)<br>
+  [7、Vue单向数据流](https://github.com/liyayun713/FED/blob/master/Vue/one-way-data-flow.md)<br>
+  [8、几种组件间通讯的方式](https://github.com/liyayun713/FED/blob/master/Vue/component-communication.md)<br>
+  [9、事件机制](https://github.com/liyayun713/FED/blob/master/Vue/Events.md)<br>
+  [10、VNode](https://github.com/liyayun713/FED/blob/master/Vue/vnode.md)<br>
 ## 七、ES6
   [1、promise 手写一个ajax的promise封装](http://www.baidu.com)<br>
   [2、let const](http://www.baidu.com)<br>
@@ -83,20 +84,20 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [1、前段性能监控](http://www.baidu.com)<br>
   [2、动画卡顿的性能优化](http://www.baidu.com)<br>
 ## 十、网络相关
-  [1、ajax](http://www.baidu.com)<br>
-  [2、http协议](http://www.baidu.com)<br>
-  [3、状态码](http://www.baidu.com)<br>
-  [4、各种请求类型的区别 get post](http://www.baidu.com)<br>
-  [5、XHR和http区别](http://www.baidu.com)<br>
-  [6、http1.0 http2.0区别](http://www.baidu.com)<br>
-  [7、DNS解析过程 DNS劫持](http://www.baidu.com)<br>
-  [8、TCP三次握手](http://www.baidu.com)<br>
-  [9、websocket](http://www.baidu.com)<br>
+  1、ajax<br>
+  2、http协议<br>
+  3、状态码<br>
+  [4、各种请求类型的区别 get post](https://github.com/liyayun713/FED/blob/master/network/get-post.md)<br>
+  5、XHR和http区别<br>
+  6、http1.0 http2.0区别<br>
+  7、DNS解析过程 DNS劫持<br>
+  8、TCP三次握手<br>
+  9、websocket<br>
 ## 十一、web存储
   [1、cookie](http://www.baidu.com)<br>
   [2、localStorage sessionStorage](http://www.baidu.com)<br>
   [3、indexDB](http://www.baidu.com)<br>
-	[4、HTTP缓存](http://www.baidu.com)<br>
+  [4、HTTP缓存](http://www.baidu.com)<br>
 ## 十二、模块化
   [1、AMD CMD cocommonJS](http://www.baidu.com)<br>
   [2、requirejs seajs](http://www.baidu.com)<br>
@@ -108,9 +109,9 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [3、touch tap事件](http://www.baidu.com)<br>
   [4、GPU渲染](http://www.baidu.com)<br>
   [5、SPA首屏空白原因](http://www.baidu.com)<br>
-	[6、移动端1px边框原理及实现](http://www.baidu.com)<br>
+  [6、移动端1px边框原理及实现](http://www.baidu.com)<br>
 ## 十四、兼容性专题（PC、移动）
-	1、移动端输入键盘会把fixed定位挤上去
+  1、移动端输入键盘会把fixed定位挤上去
 ## 十五、web安全
   [1、https](http://www.baidu.com)<br>
   [2、xss](http://www.baidu.com)<br>
