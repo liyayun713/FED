@@ -10,3 +10,16 @@ function b () {
   console.log('i am b');
 }
 ```
+### 知识点：因为 b 是在全局环境中声明的，所以 value 的声明会在全局环境下寻找
+```js
+function b() {
+  console.log(value);
+}
+function a() {
+  var value = 2;
+  b();
+}
+
+var value = 1;
+a();    // 1
+```
