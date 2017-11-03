@@ -3,6 +3,7 @@
 document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 ```
 ## 一、JS篇
+	[*、有趣的js面试题](https://github.com/liyayun713/GET_FE/blob/master/js/problems.md)<
   [1、this call apply bind](https://github.com/liyayun713/GET_FE/blob/master/js/this%20call%20apply%20bind.md)<br>
   2、原型 原型链 继承<br>
   3、作用域 闭包 堆栈溢出 内存泄漏<br>
