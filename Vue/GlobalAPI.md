@@ -1,6 +1,5 @@
 # 全局API
-  * Vue.extend
-  Create a “subclass” of the base Vue constructor. The argument should be an object containing component options. The special case to note here is the data option - it must be a function when used with Vue.extend().
+  * Vue.extend<br/>Create a “subclass” of the base Vue constructor. The argument should be an object containing component options. The special case to note here is the data option - it must be a function when used with Vue.extend().
 ```html
 <div id="mount-point"></div>
 <script>
