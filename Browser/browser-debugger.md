@@ -1,1 +1,11 @@
-browser-debugger.md
+# web调试-chrome开发者工具指南
+### 1、Elements
+* 选择元素
+* 移动端适配
+* Online模拟网络
+* 切换横竖屏
+* ##取色器##
+* 元素状态筛选
+* html布局调试
+* css3动画曲线调试（贝塞尔曲线）
+![]()
