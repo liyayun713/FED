@@ -74,13 +74,14 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [3、Promise Generator Async比较](https://segmentfault.com/a/1190000010914001)<br>
   [4、class与es5中的prototype区别](http://www.baidu.com)<br>
 ## 八、浏览器
-  [1、浏览器解析过程 浏览器工作原理](http://www.baidu.com)<br>
-  [2、渲染引擎 js解析引擎](http://www.baidu.com)<br>
-  [3、webkit内核在渲染时有什么性能问题](http://www.baidu.com)<br>
-  [4、抓包工具 移动端如何调试](http://www.baidu.com)<br>
-  [5、css和js加载时的差异](http://www.baidu.com)<br>
-  [6、路由实现](http://www.baidu.com)<br>
-  [7、浏览器缓存](http://www.baidu.com)<br>
+  1、浏览器解析过程 浏览器工作原理<br>
+  2、渲染引擎 js解析引擎<br>
+  3、webkit内核在渲染时有什么性能问题<br>
+  4、抓包工具 移动端如何调试<br>
+  5、css和js加载时的差异<br>
+  6、路由实现<br>
+  7、浏览器缓存<br>
+  [8、Chrome浏览器调试指南](https://github.com/liyayun713/FED/blob/master/Browser/browser-debugger.md)<br>
 ## 九、性能优化
   [1、前段性能监控](http://www.baidu.com)<br>
   [2、动画卡顿的性能优化](http://www.baidu.com)<br>
