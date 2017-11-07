@@ -8,7 +8,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   3、作用域 闭包 堆栈溢出 内存泄漏<br>
   4、异步 单线程 线程<br>
   5、事件机制 事件模型 事件委托<br>
-  6、深拷贝 浅拷贝<br>
+  [6、深拷贝 浅拷贝](https://github.com/liyayun713/GET_FE/blob/master/js/.md)<br>
   7、DOM操作(增删改查)<br>
   8、数组去重排序<br>
   9、柯里化<br>
