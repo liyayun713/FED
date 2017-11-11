@@ -37,7 +37,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [12、移动端三大布局方案 rem em viewport 对比](https://github.com/liyayun713/FED/blob/master/CSS/viewport_rem_em.md)
 ## 三、HTML篇
   1、HTML5新特性<br>
-  [2、常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta)<br>
+  [2、常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)<br>
 ## 四、综合
   [1、从输入URL到页面加载过程](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
   [2、跨域](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
