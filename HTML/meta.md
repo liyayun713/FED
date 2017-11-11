@@ -18,6 +18,8 @@
 ### 3、声明文档的使用编码
 ```html
 <meta charset="utf-8" />
+<!-- 用以说明主页制作所使用的文字以及语言-->
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 ```
 ### 4、优先使用IE最先版本和Chrome
 ```html
