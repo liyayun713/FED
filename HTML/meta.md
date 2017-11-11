@@ -37,6 +37,10 @@
 ```html
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 ```
+* 添加到主屏幕后，全屏显示
+```html
+<meta name="apple-touch-fullscreen" content="yes">
+```
 ### 7、content的取值为webkit,ie-comp,ie-stand之一，区分大小写，分别代表用webkit内核，IE兼容内核，IE标准内核
 ```html
 <meta name="renderer" content="webkit|ie-comp|ie-stand">
