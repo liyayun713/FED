@@ -37,3 +37,11 @@
 ```html
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 ```
+### 7、content的取值为webkit,ie-comp,ie-stand之一，区分大小写，分别代表用webkit内核，IE兼容内核，IE标准内核
+```html
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+```
+### 8、禁止浏览器缓存（是用于设定禁止浏览器从本地机的缓存中调阅页面内容，设定后一旦离开网页就无法从Cache中再调出）
+```html
+<meta http-equiv="pragram" content="no-cache"> 
+```
