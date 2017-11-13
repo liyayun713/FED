@@ -108,11 +108,11 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [4、MVC MVVM MVP](http://www.baidu.com)<br>
 ## 十三、移动端相关
   [1、移动布局方案](http://www.baidu.com)<br>
-  [2、响应式开发](http://www.baidu.com)<br>
-  [3、touch tap事件](http://www.baidu.com)<br>
-  [4、GPU渲染](http://www.baidu.com)<br>
-  [5、SPA首屏空白原因](http://www.baidu.com)<br>
-  [6、移动端1px边框原理及实现](http://www.baidu.com)<br>
+  2、响应式开发<br>
+  3、touch tap事件<br>
+  4、GPU渲染<br>
+  5、SPA首屏空白原因<br>
+  6、移动端1px边框原理及实现<br>
 ## 十四、兼容性专题（PC、移动）
   1、移动端输入键盘会把fixed定位挤上去
 ## 十五、web安全
