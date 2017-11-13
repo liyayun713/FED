@@ -107,7 +107,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [3、import export es6的跟其他模块化的区别](http://www.baidu.com)<br>
   [4、MVC MVVM MVP](http://www.baidu.com)<br>
 ## 十三、移动端相关
-  [1、移动布局方案](http://www.baidu.com)<br>
+  [1、移动布局方案](https://github.com/liyayun713/FED/blob/master/mobile/Layout-scheme.md)<br>
   2、响应式开发<br>
   3、touch tap事件<br>
   4、GPU渲染<br>
