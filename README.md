@@ -39,16 +39,16 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   1、HTML5新特性<br>
   [2、常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)<br>
 ## 四、综合
-  [1、从输入URL到页面加载过程](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
+  1、从输入URL到页面加载过程<br>
   [2、跨域](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
-  [3、缓存机制](http://www.baidu.com)<br>
-  [4、轮播的实现](http://www.baidu.com)<br>
-  [5、懒加载 预加载](http://www.baidu.com)<br>
-  [6、前后端协作](http://www.baidu.com)<br>
-  [7、如何做前后端分离](http://www.baidu.com)<br>
-  [8、爬虫的实现原理](http://www.baidu.com)<br>
-  [9、Javascript设计模式](http://www.baidu.com)<br>
-  [10、高德地图API](http://www.baidu.com)<br>
+  3、缓存机制<br>
+  4、轮播的实现<br>
+  5、懒加载 预加载<br>
+  6、前后端协作<br>
+  7、如何做前后端分离<br>
+  8、爬虫的实现原理<br>
+  9、Javascript设计模式<br>
+  [10、高德地图API](https://github.com/liyayun713/GET_FE/blob/master/FED/AMap.md)<br>
 ## 五、webpack
   [1、打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
   [2、刷新原理](http://www.baidu.com)<br>
