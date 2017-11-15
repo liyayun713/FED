@@ -77,7 +77,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   2、let const<br>
   3、Promise Generator Async比较<br>
   4、class与es5中的prototype区别<br>
-  [5、ES6常用语法]()<br>
+  [5、ES6常用语法](https://github.com/liyayun713/FED/blob/master/ES6/ES6.md)<br>
 ## 八、浏览器
   1、浏览器解析过程 浏览器工作原理<br>
   2、渲染引擎 js解析引擎<br>
