@@ -137,7 +137,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   4、Zepto<br>
 ## 十九、Angular
 ## 二十、Underscore
-  [1、如何写自己的Underscore](www.baidu.com)<br>
+  [1、如何写自己的Underscore](https://github.com/liyayun713/FED/blob/master/Underscore/UnderscoreDIY.md)<br>
 ## 二十一、Bootstrap Sass Less
 ## 二十二、小程序、微信公众号
 ## 二十三、SEO
