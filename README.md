@@ -20,7 +20,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   15、slice splice substring substr区别<br>
   16、scrollTop、scrollHeight、offsetTop、offsetHeight、clientHeight、clientTop<br>
   17、__proto__与prototype傻傻分不清？<br>
-  18、JavaScript的同步和异步<br>
+  [18、JavaScript的同步和异步](https://github.com/liyayun713/FED/blob/master/js/async%26sync.md)<br>
   [@、一些有趣的js题目](https://github.com/liyayun713/GET_FE/blob/master/js/problems.md)<br>
   [@、js历史](https://github.com/liyayun713/GET_FE/blob/master/js/history.md)<br>
   
