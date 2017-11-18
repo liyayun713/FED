@@ -23,3 +23,23 @@ div {
 * 设置父级元素 display 为 flex
 * justify-content 设定子元素水平居中
 * align-items 设定子元素垂直居中
+### 三、通过 绝对定位(top、bottom、left、right均为0) + margin(auto)
+```css
+.father {
+    width:200px;
+    height:300px;
+    background: yellow;
+    position: relative;
+}
+.child{
+    width:50%;/*这里为了实体化，给了宽高，但是宽高可以任意改变，就是所谓的不定宽高*/
+    height:50%;
+    position: absolute;
+    left:0;
+    top:0;
+    right:0;
+    bottom:0;
+    background: red;
+    margin: auto; /*重点就是他*/
+}
+```
