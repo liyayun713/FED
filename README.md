@@ -33,7 +33,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   6、BFC<br>
   7、SVG 雪碧图<br>
   8、一像素边框<br>
-  9、实现水平垂直居中对齐<br>
+  [9、实现水平垂直居中对齐](https://github.com/liyayun713/FED/blob/master/CSS/VerticalHorizontal.md)<br>
   10、重绘和回流的区别<br>
   11、GPU加速原理和哪些用了GPU加速<br>
   [12、移动端三大布局方案 rem em viewport 对比](https://github.com/liyayun713/FED/blob/master/CSS/viewport_rem_em.md)<br/>
