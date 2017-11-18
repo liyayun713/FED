@@ -7,7 +7,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   2、原型 原型链 继承<br>
   3、作用域 闭包 堆栈溢出 内存泄漏<br>
   4、异步 单线程 线程<br>
-  5、事件机制 事件模型 事件委托<br>
+  [5、事件机制 事件模型 事件委托](https://github.com/liyayun713/FED/blob/master/js/Event.md)<br>
   [6、深拷贝 浅拷贝](https://github.com/liyayun713/FED/blob/master/js/%E6%B7%B1%E6%8B%B7%E8%B4%9D&%E6%B5%85%E6%8B%B7%E8%B4%9D.md)<br>
   7、DOM操作(增删改查)<br>
   8、数组去重排序<br>
