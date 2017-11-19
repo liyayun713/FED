@@ -6,20 +6,20 @@
 ```html
 <head>
 	<style>
-	html, body {
-		height: 100%;
-		margin: 0;
-	}
-	.wrapper {
-		min-height: 100%;
-		/* 等于footer的高度 */
-		margin-bottom: -50px;
-	}
-	.footer,
-	.push {
-		height: 50px;
-		background: #000;
-	}
+		html, body {
+			height: 100%;
+			margin: 0;
+		}
+		.wrapper {
+			min-height: 100%;
+			/* 等于footer的高度 */
+			margin-bottom: -50px;
+		}
+		.footer,
+		.push {
+			height: 50px;
+			background: #000;
+		}
 	</style>
 </head>
 <body>
@@ -43,20 +43,20 @@
 ```html
 <style>
   html, body {
-  height: 100%;
-  margin: 0;
-}
-.content {
-  min-height: 100%;
-}
-.content-inside {
-  padding: 20px;
-  padding-bottom: 50px;
-}
-.footer {
-  height: 50px;
-  margin-top: -50px;
-}
+		height: 100%;
+		margin: 0;
+	}
+	.content {
+		min-height: 100%;
+	}
+	.content-inside {
+		padding: 20px;
+		padding-bottom: 50px;
+	}
+	.footer {
+		height: 50px;
+		margin-top: -50px;
+	}
 </style>
 ```
 ### 3、使用flexbox弹性盒子布局
@@ -69,16 +69,18 @@
 </body>
 ```
 ```html
-html {
-  height: 100%;
-}
-body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-}
-.content {
-  flex: 1;
-}
+<style>
+	html {
+		height: 100%;
+	}
+	body {
+		min-height: 100%;
+		display: flex;
+		flex-direction: column;
+	}
+	.content {
+		flex: 1;
+	}
+</style>
 ```
 ### 4、绝对定位，footer设置 position: absolute; bottom: 0; height: 100px; 父元素设置最小高度 min-height: 100%; padding-bottom: 100px;
