@@ -8,7 +8,7 @@
 <html>
   <head>
     <title></title>
-	  <style>
+		<style>
       html, body {
         height: 100%;
         margin: 0;
