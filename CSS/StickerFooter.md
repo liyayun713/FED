@@ -24,8 +24,8 @@
 </head>
 <body>
 	<div class="wrapper">
-    	<div class="push"></div>
-  	</div>
+		<div class="push"></div>
+	</div>
 	<footer class="footer"></footer>
 </body>
 ```
@@ -41,7 +41,8 @@
 </body>
 ```
 ```html
-html, body {
+<style>
+  html, body {
   height: 100%;
   margin: 0;
 }
@@ -56,6 +57,7 @@ html, body {
   height: 50px;
   margin-top: -50px;
 }
+</style>
 ```
 ### 3、使用flexbox弹性盒子布局
 ```html
