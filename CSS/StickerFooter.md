@@ -6,25 +6,25 @@
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-	<title></title>
-	<style>
-		html, body {
-		  height: 100%;
-		  margin: 0;
-		}
-		.wrapper {
-		  min-height: 100%;
-		  /* 等于footer的高度 */
-		  margin-bottom: -50px;
-		}
-		.footer,
-		.push {
-		  height: 50px;
-		  background: #000;
-		}
-	</style>
-</head>
+  <head>
+    <title></title>
+	  <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+      }
+      .wrapper {
+        min-height: 100%;
+        /* 等于footer的高度 */
+        margin-bottom: -50px;
+      }
+      .footer,
+      .push {
+        height: 50px;
+        background: #000;
+      }
+    </style>
+  </head>
 <body>
   <div class="wrapper">
     <div class="push"></div>
