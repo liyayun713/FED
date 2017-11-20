@@ -46,7 +46,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   1、从输入URL到页面加载过程<br>
   [2、跨域](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
   3、缓存机制<br>
-  4、轮播的实现<br>
+  [4、轮播图的实现](https://github.com/liyayun713/FED/blob/master/FED/Carousel.md)<br>
   5、懒加载 预加载<br>
   6、前后端协作<br>
   7、如何做前后端分离<br>
