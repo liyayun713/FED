@@ -53,7 +53,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   8、爬虫的实现原理<br>
   9、Javascript设计模式<br>
   [10、高德地图API](https://github.com/liyayun713/GET_FE/blob/master/FED/AMap.md)<br>
-  [11、SPA 和 MPA]()<br>
+  [11、SPA 和 MPA](https://github.com/liyayun713/FED/blob/master/FED/SPA%26MPA.md)<br>
 ## 五、webpack
   [1、打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
   [2、刷新原理](http://www.baidu.com)<br>
