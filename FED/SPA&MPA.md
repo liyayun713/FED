@@ -10,9 +10,7 @@
 | 组成       | 一个外壳页面和多个页面片段组成     |  多个完整页面构成   |
 | 资源共用(css,js)       |共用，只需在外壳部分加载      |   不共用，每个页面都需要加载   |
 | 刷新方式     | 页面局部刷新或更改     |   整页刷新  |
-| url 模式     | a.com/#/pageone 
-a.com/#/pagetwo     |   a.com/pageone.html 
-a.com/pagetwo.html  |
+| url 模式     | a.com/#/pageone<br> a.com/#/pagetwo     |   a.com/pageone.html<br> a.com/pagetwo.html  |
 | 刷新方式     | 页面局部刷新或更改     |   整页刷新  |
 | 刷新方式     | 页面局部刷新或更改     |   整页刷新  |
 | 刷新方式     | 页面局部刷新或更改     |   整页刷新  |
