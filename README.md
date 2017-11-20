@@ -122,6 +122,8 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   6、移动端1px边框原理及实现<br>
 ## 十四、兼容性专题（PC、移动）
   1、移动端输入键盘会把fixed定位挤上去
+  2、不同浏览器会对input表单设置一个默认的宽度
+  3、不同的浏览器会对button设置一个默认的背景颜色和border
 ## 十五、web安全
   [1、https](http://www.baidu.com)<br>
   [2、xss](http://www.baidu.com)<br>
