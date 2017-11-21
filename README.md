@@ -23,7 +23,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [18、JavaScript的同步和异步](https://github.com/liyayun713/FED/blob/master/js/async%26sync.md)<br>
   [@、一些有趣的js题目](https://github.com/liyayun713/GET_FE/blob/master/js/problems.md)<br>
   [@、js历史](https://github.com/liyayun713/GET_FE/blob/master/js/history.md)<br>
-  
+  [@、JavaScript执行机制](https://github.com/liyayun713/GET_FE/blob/master/js/ExecutionMechanism.md)<br>
 ## 二、CSS篇
   1、flex布局 弹性盒子 grid布局<br>
   2、IE的怪异盒子模型 标准浏览器的盒模型 box-sizing<br>
