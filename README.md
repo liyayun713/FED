@@ -77,6 +77,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [10、VNode](https://github.com/liyayun713/FED/blob/master/Vue/vnode.md)<br>
   [11、keep-alive组件的使用及其原理](https://github.com/liyayun713/FED/blob/master/Vue/keep-alive.md)<br>
   12、created 和 mounted 的差异<br>
+  13、Vue的各种watch监听<br>
 ## 七、ES6
   1、promise 手写一个ajax的promise封装<br>
   2、let const<br>
