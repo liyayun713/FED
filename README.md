@@ -11,7 +11,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [6、深拷贝 浅拷贝](https://github.com/liyayun713/FED/blob/master/js/%E6%B7%B1%E6%8B%B7%E8%B4%9D&%E6%B5%85%E6%8B%B7%E8%B4%9D.md)<br>
   7、DOM操作(增删改查)<br>
   8、数组去重排序<br>
-  9、柯里化<br>
+  [9、柯里化](https://github.com/liyayun713/FED/blob/master/js/Currying.md)<br>
   10、创建对象的几种方法<br>
   11、数据类型判断<br>
   [12、设计模式](https://github.com/liyayun713/FED/blob/master/js/DesignPatterns.md)<br>
