@@ -56,6 +56,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [10、高德地图API](https://github.com/liyayun713/GET_FE/blob/master/FED/AMap.md)<br>
   [11、SPA 和 MPA](https://github.com/liyayun713/FED/blob/master/FED/SPA%26MPA.md)<br>
   [12、个人实现的抢红包算法](https://github.com/liyayun713/FED/blob/master/FED/Redpacket.md)<br>
+  [13、正则过滤掉script、window、src等以及特殊字符](https://github.com/liyayun713/FED/blob/master/FED/FilterInvaildStr.md)<br>
 ## 五、webpack
   [1、打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
   [2、刷新原理](http://www.baidu.com)<br>
