@@ -44,7 +44,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   1、HTML5新特性<br>
   [2、常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)<br>
 ## 四、综合
-  1、从输入URL到页面加载过程<br>
+  [1、从输入URL到页面加载过程](https://github.com/liyayun713/FED/blob/master/FED/UrlLoadProcedure.md)<br>
   [2、跨域](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
   3、缓存机制<br>
   [4、轮播图的实现](https://github.com/liyayun713/FED/blob/master/FED/banner.md)<br>
@@ -57,6 +57,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [11、SPA 和 MPA](https://github.com/liyayun713/FED/blob/master/FED/SPA%26MPA.md)<br>
   [12、个人实现的抢红包算法](https://github.com/liyayun713/FED/blob/master/FED/Redpacket.md)<br>
   [13、正则过滤掉script、window、src等以及特殊字符](https://github.com/liyayun713/FED/blob/master/FED/FilterInvaildStr.md)<br>
+  14、苹果官方网站效果实现
 ## 五、webpack
   [1、打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
   2、刷新原理<br>
