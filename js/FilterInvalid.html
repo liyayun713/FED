@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<div>
+		输入框：
+		<input type="" name="" id="info">
+	</div>
+	<script type="text/javascript">
+		var info = document.getElementById('info');
+		info.addEventListener('blur', function () {
+			var patt = /script|window\.open|iframe|src|and|or|onmouseover|\,|\>|\<|\=|\"|\'|\\|\/|\%/g;
+			var str = info.value;
+			// console.log(patt.test(str));
+			if (patt.test(str)) alert('非法字符！！！');
+		});
+	</script>
+</body>
+</html>
