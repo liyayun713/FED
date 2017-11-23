@@ -87,7 +87,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   4、class与es5中的prototype区别<br>
   [5、ES6常用语法](https://github.com/liyayun713/FED/blob/master/ES6/ES6.md)<br>
 ## 八、浏览器
-  [1、浏览器的结构组成](https://github.com/liyayun713/FED/blob/master/Browser/Browser.md)  
+  [1、浏览器的结构组成](https://github.com/liyayun713/FED/blob/master/Browser/Browser.md)  
   2、浏览器解析过程 浏览器工作原理<br>
   [3、浏览器渲染引擎](https://github.com/liyayun713/FED/blob/master/Browser/RenderingEngine.md)  
   4、js解析引擎<br>
