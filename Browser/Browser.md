@@ -7,5 +7,7 @@
 * `JavaScript Interpreter（js解释器）` －用来解释执行JS脚本的模块，如 V8 引擎、JavaScriptCore
 * `UI Backend（UI 后端）` -用来绘制基本的浏览器窗口内控件，如输入框、按钮、单选按钮等，根据浏览器不同绘制的视觉效果也不同，但功能都是一样的
 * `Date Persistence（数据持久化存储）` －浏览器在硬盘中保存 cookie、localStorage等各种数据，可通过浏览器引擎提供的API进行调用  
+
 ![](https://user-gold-cdn.xitu.io/2017/11/1/81abbf6319b1ad27dd3914ad39c04cd4?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)  
+
 作为前端开发人员，我们需要重点理解`渲染引擎`的工作原理，灵活应用`数据存储技术`，在实际项目开发中会经常涉及到这两个部分，尤其是在做项目性能优化时，理解浏览器渲染引擎的工作原理尤为重要。而其他部分则是由浏览器自行管理的，开发者能控制的地方较少。
