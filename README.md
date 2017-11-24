@@ -1,4 +1,4 @@
-# 大前端知识点梳理
+# FE知识点梳理
 ```javascript
 document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 ```
@@ -104,7 +104,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 ## 十、网络相关
   1、ajax<br>
   [2、http协议](https://github.com/liyayun713/FED/blob/master/network/http.md)<br>
-  [3、HTTP常用状态码](https://github.com/liyayun713/FED/blob/master/network/HttpStatusCode.md)<br>
+  [3、HTTP常用状态码](https://github.com/liyayun713/FED/blob/master/network/HttpStatusCode.md)<br>
   [4、各种请求类型的区别 get post](https://github.com/liyayun713/FED/blob/master/network/get-post.md)<br>
   5、XHR和http区别<br>
   6、http1.0 http2.0区别<br>
