@@ -86,7 +86,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   2、let const<br>
   3、Promise Generator Async比较<br>
   4、class与es5中的prototype区别<br>
-  [5、ES6常用语法](https://github.com/liyayun713/FED/blob/master/ES6/ES6.md)<br>
+  [5、ES6常用语法](https://github.com/liyayun713/FED/blob/master/ES6/ES6.md)<br>
 ## 八、浏览器
   [1、浏览器的结构组成](https://github.com/liyayun713/FED/blob/master/Browser/Browser.md)  
   2、浏览器解析过程 浏览器工作原理<br>
@@ -154,6 +154,8 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [1、如何写自己的Underscore](https://github.com/liyayun713/FED/blob/master/Underscore/UnderscoreDIY.md)<br>
 ## 二十一、Bootstrap Sass Less
 ## 二十二、小程序、微信公众号
+  1、微信小程序
+  2、微信公众号
 ## 二十三、SEO
 ## 二十四、Node.js
 ## 二十五、Photoshop
