@@ -27,7 +27,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 ## 二、CSS篇
   1、flex布局 弹性盒子 grid布局<br>
   2、IE的怪异盒子模型 标准浏览器的盒模型 box-sizing<br>
-  3、几种定位<br>
+  [3、css定位](https://github.com/liyayun713/FED/blob/master/CSS/Position.md)<br>
   4、css动画<br>
   5、css3新特性<br>
   6、BFC<br>
