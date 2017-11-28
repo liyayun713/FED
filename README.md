@@ -69,7 +69,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   8、loader原理机制<br>
 ## 六、Vue
   [1、双向数据绑定原理](https://github.com/liyayun713/FED/blob/master/Vue/data-bind.md)<br>
-  2、vuex<br>
+  [2、vuex](https://github.com/liyayun713/FED/blob/master/Vue/vuex.md)<br>
   3、vue-router<br>
   4、VDOM<br>
   5、SSR<br>
