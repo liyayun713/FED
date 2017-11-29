@@ -2,6 +2,7 @@
 * 微信 App
 * QQ App
 * 百度 App
+* safari
 * UC浏览器
 * 百度浏览器
 * QQ浏览器
