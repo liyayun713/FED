@@ -1,4 +1,9 @@
 # 使用css3画一个正方体
+### 技能点
+* 父元素 .wrap 使用 transform-style: preserver-3d 启用3D绘图，使用 transition：all 6s 增加过渡效果
+* 子元素使用 position：absolute 绝对定位脱离文档流
+* 各种 transform(translateX、rotateX()……)
+* 使用 opacity：0.6 透视图增加3D效果
 ```html
 <!DOCTYPE html>
 <html>
