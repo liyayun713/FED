@@ -30,7 +30,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   2、IE的怪异盒子模型 标准浏览器的盒模型 box-sizing<br>
   [3、css定位](https://github.com/liyayun713/FED/blob/master/CSS/Position.md)<br>
   4、css动画<br>
-  5、css3新特性<br>
+  [5、css3新特性](https://github.com/liyayun713/FED/blob/master/CSS/CSS3.md)<br>
   6、BFC<br>
   7、SVG 雪碧图<br>
   8、一像素边框<br>
