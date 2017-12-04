@@ -14,9 +14,13 @@ transition: all 2s
 ### 颜色
 ### 渐变
 ### 滤镜
-### 弹性布局--flex
+### 弹性布局--Flex
 ### 栅格布局--Grid
 ### 多列布局
 ### 盒模型定义
+```css
+border-sizing: border-box;      // 边框和padding包含在元素的宽高之内
+border-sizing: content-box;     // 边框和padding不包含在元素的宽高之内
+```
 ### 媒体查询
 ### 混合模式
