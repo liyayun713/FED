@@ -26,7 +26,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [@、js历史](https://github.com/liyayun713/GET_FE/blob/master/js/history.md)<br>
   [@、JavaScript执行机制](https://github.com/liyayun713/GET_FE/blob/master/js/ExecutionMechanism.md)<br>
 ## 二、CSS篇
-  1、Flex弹性布局<br>
+  [1、Flex弹性布局](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md)<br>
   2、Grid栅格布局<br>
   3、IE的怪异盒子模型 标准浏览器的盒模型 box-sizing<br>
   [4、css定位](https://github.com/liyayun713/FED/blob/master/CSS/Position.md)<br>
