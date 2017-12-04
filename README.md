@@ -26,21 +26,22 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [@、js历史](https://github.com/liyayun713/GET_FE/blob/master/js/history.md)<br>
   [@、JavaScript执行机制](https://github.com/liyayun713/GET_FE/blob/master/js/ExecutionMechanism.md)<br>
 ## 二、CSS篇
-  1、flex布局 弹性盒子 grid布局<br>
-  2、IE的怪异盒子模型 标准浏览器的盒模型 box-sizing<br>
-  [3、css定位](https://github.com/liyayun713/FED/blob/master/CSS/Position.md)<br>
-  4、css动画<br>
-  [5、css3新特性](https://github.com/liyayun713/FED/blob/master/CSS/CSS3.md)<br>
-  6、BFC<br>
-  7、SVG 雪碧图<br>
-  8、一像素边框<br>
-  [9、实现水平垂直居中对齐](https://github.com/liyayun713/FED/blob/master/CSS/VerticalHorizontal.md)<br>
-  10、重绘和回流的区别<br>
-  11、GPU加速原理和哪些用了GPU加速<br>
-  [12、移动端三大布局方案 rem em viewport 对比](https://github.com/liyayun713/FED/blob/master/CSS/viewport_rem_em.md)<br/>
-  13、圣杯 & 双飞翼布局<br>
-  [14、`Sticker Footer`布局](https://github.com/liyayun713/FED/blob/master/CSS/StickerFooter.md)<br>
-  [15、如何使用css画一个正方体](https://github.com/liyayun713/FED/blob/master/CSS/Cube.md)  
+  1、Flex弹性布局<br>
+  2、Grid栅格布局<br>
+  3、IE的怪异盒子模型 标准浏览器的盒模型 box-sizing<br>
+  [4、css定位](https://github.com/liyayun713/FED/blob/master/CSS/Position.md)<br>
+  5、css动画<br>
+  [6、css3新特性](https://github.com/liyayun713/FED/blob/master/CSS/CSS3.md)<br>
+  7、BFC<br>
+  8、SVG 雪碧图<br>
+  9、一像素边框<br>
+  [10、实现水平垂直居中对齐](https://github.com/liyayun713/FED/blob/master/CSS/VerticalHorizontal.md)<br>
+  11、重绘和回流的区别<br>
+  12、GPU加速原理和哪些用了GPU加速<br>
+  [13、移动端三大布局方案 rem em viewport 对比](https://github.com/liyayun713/FED/blob/master/CSS/viewport_rem_em.md)<br/>
+  14、圣杯 & 双飞翼布局<br>
+  [15、`Sticker Footer`布局](https://github.com/liyayun713/FED/blob/master/CSS/StickerFooter.md)<br>
+  [16、如何使用css画一个正方体](https://github.com/liyayun713/FED/blob/master/CSS/Cube.md)  
 ## 三、HTML篇
   1、HTML5新特性<br>
   [2、常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)<br>
