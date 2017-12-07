@@ -163,7 +163,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 ## 二十三、SEO
 ## 二十四、Node.js
   [详见我的《深入浅出NodeJs读书笔记》](https://github.com/liyayun713/Head-First-NodeJs)  
-  1、express  
+  1、express
   2、koa
 ## 二十五、Photoshop
 ## 二十六、SQL
