@@ -1,5 +1,18 @@
 # window.navigator
 ### The Window.navigator read-only property returns a reference to the Navigator object, which can be queried for information about the application running the script.
+ 
+### 移动端项目中浏览器判断
+* UC浏览器：UCBrowser
+* 微信：MicroMessenger
+* 百度 App：baiduboxapp
+* 百度浏览器：baidubrowser
+* QQ浏览器：MQQBrowser
+* 搜狗浏览器：SogouMobileBrowser
+* 猎豹浏览器：LieBaoFast
+* QQ App：MQQBrowser
+* 傲游浏览器：Maxthon
+* 360浏览器：无
+
 
 ### navigator.userAgent
 ```js
