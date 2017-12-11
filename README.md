@@ -3,28 +3,28 @@
 document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 ```
 ## 一、JS篇
-  [1、this call apply bind](https://github.com/liyayun713/GET_FE/blob/master/js/this%20call%20apply%20bind.md)<br>
-  2、原型 原型链 继承<br>
-  3、作用域 闭包 堆栈溢出 内存泄漏<br>
-  4、异步 单线程 线程<br>
-  [5、事件机制 事件模型 事件委托](https://github.com/liyayun713/FED/blob/master/js/Event.md)<br>
-  [6、深拷贝 浅拷贝](https://github.com/liyayun713/FED/blob/master/js/%E6%B7%B1%E6%8B%B7%E8%B4%9D&%E6%B5%85%E6%8B%B7%E8%B4%9D.md)<br>
-  7、DOM操作(增删改查)<br>
-  8、数组去重排序<br>
-  [9、柯里化](https://github.com/liyayun713/FED/blob/master/js/Currying.md)<br>
-  10、创建对象的几种方法<br>
-  11、数据类型判断<br>
-  [12、设计模式](https://github.com/liyayun713/FED/blob/master/js/DesignPatterns.md)<br>
-  13、setTimeout setInterval 定时器原理<br>
-  14、怎么获取一个元素到视图顶部的距离 getBoundingClientRect和offsetTop区别<br>
-  15、slice splice substring substr区别<br>
-  16、scrollTop、scrollHeight、offsetTop、offsetHeight、clientHeight、clientTop<br>
-  17、__proto__与prototype傻傻分不清？<br>
-  [19、window.navigator](https://github.com/liyayun713/FED/blob/master/js/navigator.md)  
-  [20、JavaScript的同步和异步](https://github.com/liyayun713/FED/blob/master/js/async%26sync.md)<br>
-  [@、一些有趣的js题目](https://github.com/liyayun713/GET_FE/blob/master/js/problems.md)<br>
-  [@、js历史](https://github.com/liyayun713/GET_FE/blob/master/js/history.md)<br>
-  [@、JavaScript执行机制](https://github.com/liyayun713/GET_FE/blob/master/js/ExecutionMechanism.md)<br>
+1. [this call apply bind](https://github.com/liyayun713/GET_FE/blob/master/js/this%20call%20apply%20bind.md)<br>
+2. 原型 原型链 继承<br>
+3. 作用域 闭包 堆栈溢出 内存泄漏<br>
+4. 异步 单线程 线程<br>
+5. [事件机制 事件模型 事件委托](https://github.com/liyayun713/FED/blob/master/js/Event.md)<br>
+6. [深拷贝 浅拷贝](https://github.com/liyayun713/FED/blob/master/js/%E6%B7%B1%E6%8B%B7%E8%B4%9D&%E6%B5%85%E6%8B%B7%E8%B4%9D.md)<br>
+7. DOM操作(增删改查)<br>
+8. 数组去重排序<br>
+9. [柯里化](https://github.com/liyayun713/FED/blob/master/js/Currying.md)<br>
+10. 创建对象的几种方法<br>
+11. 数据类型判断<br>
+12. [设计模式](https://github.com/liyayun713/FED/blob/master/js/DesignPatterns.md)<br>
+13. setTimeout setInterval 定时器原理<br>
+14. 怎么获取一个元素到视图顶部的距离 getBoundingClientRect和offsetTop区别<br>
+15. slice splice substring substr区别<br>
+16. scrollTop、scrollHeight、offsetTop、offsetHeight、clientHeight、clientTop<br>
+17. __proto__与prototype傻傻分不清？<br>
+19. [window.navigator](https://github.com/liyayun713/FED/blob/master/js/navigator.md)  
+20. [JavaScript的同步和异步](https://github.com/liyayun713/FED/blob/master/js/async%26sync.md)<br>
+21. [一些有趣的js题目](https://github.com/liyayun713/GET_FE/blob/master/js/problems.md)<br>
+22. [js历史](https://github.com/liyayun713/GET_FE/blob/master/js/history.md)<br>
+23. [JavaScript执行机制](https://github.com/liyayun713/GET_FE/blob/master/js/ExecutionMechanism.md)<br>
 ## 二、CSS篇
   [1、Flex弹性布局](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md)<br>
   2、Grid栅格布局<br>
