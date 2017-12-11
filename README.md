@@ -23,28 +23,28 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 19. [window.navigator](https://github.com/liyayun713/FED/blob/master/js/navigator.md)  
 20. [JavaScript的同步和异步](https://github.com/liyayun713/FED/blob/master/js/async%26sync.md)<br>
 21. [一些有趣的js题目](https://github.com/liyayun713/GET_FE/blob/master/js/problems.md)<br>
-22. [js历史](https://github.com/liyayun713/GET_FE/blob/master/js/history.md)<br>
+22. [JS发展历史](https://github.com/liyayun713/GET_FE/blob/master/js/history.md)<br>
 23. [JavaScript执行机制](https://github.com/liyayun713/GET_FE/blob/master/js/ExecutionMechanism.md)<br>
 ## 二、CSS篇
-  [1、Flex弹性布局](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md)<br>
-  2、Grid栅格布局<br>
-  [3、IE的怪异盒子模型 标准浏览器的盒模型 box-sizing](https://github.com/liyayun713/FED/blob/master/CSS/BoxSizing.md)<br>
-  [4、css定位](https://github.com/liyayun713/FED/blob/master/CSS/Position.md)<br>
-  5、Animation Transition Transform<br>
-  [6、css3新特性](https://github.com/liyayun713/FED/blob/master/CSS/CSS3.md)<br>
-  7、BFC<br>
-  8、SVG 雪碧图<br>
-  9、一像素边框<br>
-  [10、实现水平垂直居中对齐](https://github.com/liyayun713/FED/blob/master/CSS/VerticalHorizontal.md)<br>
-  11、重绘和回流的区别<br>
-  12、GPU加速原理和哪些用了GPU加速<br>
-  [13、移动端三大布局方案 rem em viewport 对比](https://github.com/liyayun713/FED/blob/master/CSS/viewport_rem_em.md)<br/>
-  14、圣杯 & 双飞翼布局<br>
-  [15、`Sticker Footer`布局](https://github.com/liyayun713/FED/blob/master/CSS/StickerFooter.md)<br>
-  [16、如何使用css画一个正方体](https://github.com/liyayun713/FED/blob/master/CSS/Cube.md)  
+1. [Flex弹性布局](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md)<br>
+2. Grid栅格布局<br>
+3. [IE的怪异盒子模型 标准浏览器的盒模型 box-sizing](https://github.com/liyayun713/FED/blob/master/CSS/BoxSizing.md)<br>
+4. [css定位](https://github.com/liyayun713/FED/blob/master/CSS/Position.md)<br>
+5. Animation Transition Transform<br>
+6. [css3新特性](https://github.com/liyayun713/FED/blob/master/CSS/CSS3.md)<br>
+7. BFC<br>
+8. SVG 雪碧图<br>
+9. 一像素边框<br>
+10. [实现水平垂直居中对齐](https://github.com/liyayun713/FED/blob/master/CSS/VerticalHorizontal.md)<br>
+11. 重绘和回流的区别<br>
+12. GPU加速原理和哪些用了GPU加速<br>
+13. [移动端三大布局方案 rem em viewport 对比](https://github.com/liyayun713/FED/blob/master/CSS/viewport_rem_em.md)<br/>
+14. 圣杯 & 双飞翼布局<br>
+15. [`Sticker Footer`布局](https://github.com/liyayun713/FED/blob/master/CSS/StickerFooter.md)<br>
+16. [如何使用css画一个正方体](https://github.com/liyayun713/FED/blob/master/CSS/Cube.md)  
 ## 三、HTML篇
-  1、HTML5新特性<br>
-  [2、常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)<br>
+1. HTML5新特性<br>
+2. [常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)<br>
 ## 四、综合
 1. [从输入URL到页面加载过程](https://github.com/liyayun713/FED/blob/master/FED/UrlLoadProcedure.md)<br>
 2. [跨域](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
