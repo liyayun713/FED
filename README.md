@@ -136,7 +136,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   1、移动端输入键盘会把fixed定位挤上去<br/>
   2、不同浏览器会对input表单设置一个默认的border和宽度<br/>
   3、不同的浏览器会对button设置一个默认的背景颜色和border<br/>
-  4、border-color使用line-gradient时有的浏览器会默认一个border，解决方案：设置border: 0  
+  4、border-color使用linear-gradient时有的浏览器会默认一个border，解决方案：设置border: 0  
   5、ios输入框input默认光标和height相同，解决方案，设置padding，把height设置小一点  
 ## 十五、web安全
   [1、https](http://www.baidu.com)<br>
