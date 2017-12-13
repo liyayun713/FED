@@ -8,6 +8,7 @@
 * DOM 和 JS 对象无法获取
 * Ajax请求发送不出去
 
+## 常见的跨域场景
 所谓的同源是指，域名(主域名，子域名)、协议、端口均为相同
 ```
 http://www.nealyang.cn/index.html 调用   http://www.nealyang.cn/server.php  非跨域
@@ -21,4 +22,33 @@ http://www.nealyang.cn:8080/index.html 调用   http://www.nealyang.cn/server.ph
 https://www.nealyang.cn/index.html 调用   http://www.nealyang.cn/server.php  跨域,协议不同
 
 localhost   调用 127.0.0.1 跨域
+```
+
+## 跨域的解决办法
+### JSONP跨域
+
+sonp跨域其实也是JavaScript设计模式中的一种代理模式。在html页面中通过相应的标签从不同域名下加载静态资源文件是被浏览器允许的，所以我们可以通过这个“犯罪漏洞”来进行跨域。一般，我们可以动态的创建script标签，再去请求一个带参网址来实现跨域通信
+```js
+//原生的实现方式
+let script = document.createElement('script');
+
+script.src = 'http://www.nealyang.cn/login?username=Nealyang&callback=callback';
+
+document.body.appendChild(script);
+
+function callback(res) {  
+  console.log(res);
+}
+```
+当然，jquery也支持jsonp的实现方式
+```js
+$.ajax({
+    url:'http://www.nealyang.cn/login',
+    type:'GET',
+    dataType:'jsonp',//请求方式为jsonp
+    jsonpCallback:'callback',
+    data:{
+        "username":"Nealyang"
+    }
+})
 ```
