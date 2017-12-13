@@ -54,3 +54,18 @@ $.ajax({
 ```
 
 ### document.domain + iframe 跨域(这种跨域的方式最主要的是要求主域名相同)
+### window.name + iframe 跨域
+### location.hash + iframe 跨域
+### postMessage跨域
+### 跨域资源共享 CORS（目前主流的跨域解决方案）
+CORS是一个W3C标准，全称是"跨域资源共享"（Cross-origin resource sharing）。 它允许浏览器向跨源服务器，发出XMLHttpRequest请求，从而克服了AJAX只能同源使用的限制。  
+
+**CORS需要浏览器和服务器同时支持**。目前，所有浏览器都支持该功能，IE浏览器不能低于IE10。IE8+：IE8/9需要使用XDomainRequest对象来支持CORS。  
+
+整个CORS通信过程，都是浏览器自动完成，不需要用户参与。对于开发者来说，CORS通信与同源的AJAX通信没有差别，代码完全一样。浏览器一旦发现AJAX请求跨源，就会自动添加一些附加的头信息，有时还会多出一次附加的请求，但用户不会有感觉。
+因此，实现CORS通信的关键是服务器。**只要服务器实现了CORS接口，就可以跨源通信**。
+
+### WebSocket协议跨域
+### node代理跨域
+### nginx代理跨域
+
