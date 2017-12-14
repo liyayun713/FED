@@ -14,7 +14,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 9. [柯里化](https://github.com/liyayun713/FED/blob/master/js/Currying.md)<br>
 10. 创建对象的几种方法<br>
 11. 数据类型判断<br>
-12. [设计模式](https://github.com/liyayun713/FED/blob/master/js/DesignPatterns.md)<br>
+12. [Javascript设计模式](https://github.com/liyayun713/FED/blob/master/js/DesignPatterns.md)<br>
 13. setTimeout setInterval 定时器原理<br>
 14. 怎么获取一个元素到视图顶部的距离 getBoundingClientRect和offsetTop区别<br>
 15. slice splice substring substr区别<br>
@@ -54,7 +54,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 6. 前后端协作<br>
 7. 如何做前后端分离<br>
 8. 爬虫的实现原理<br>
-9. Javascript设计模式<br>
+9. [Javascript设计模式](https://github.com/liyayun713/FED/blob/master/js/DesignPatterns.md)<br>
 10. [高德地图API](https://github.com/liyayun713/GET_FE/blob/master/FED/AMap.md)<br>
 11. [SPA 和 MPA](https://github.com/liyayun713/FED/blob/master/FED/SPA%26MPA.md)<br>
 12. [个人实现的抢红包算法](https://github.com/liyayun713/FED/blob/master/FED/Redpacket.md)<br>
