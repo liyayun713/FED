@@ -25,6 +25,8 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 21. [一些有趣的js题目](https://github.com/liyayun713/GET_FE/blob/master/js/problems.md)
 22. [JS发展历史](https://github.com/liyayun713/GET_FE/blob/master/js/history.md)
 23. [JavaScript执行机制](https://github.com/liyayun713/GET_FE/blob/master/js/ExecutionMechanism.md)
+24. 函数节流
+25. 检测数据类型的方法
 ## 二、CSS篇
 1. [Flex弹性布局语法篇](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md) --- [Flex弹性布局实例篇](https://github.com/liyayun713/FED/blob/master/CSS/FlexExample.md)
 2. Grid栅格布局
@@ -42,6 +44,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 14. 圣杯 & 双飞翼布局
 15. [`Sticker Footer`布局](https://github.com/liyayun713/FED/blob/master/CSS/StickerFooter.md)
 16. [如何使用css画一个正方体](https://github.com/liyayun713/FED/blob/master/CSS/Cube.md)
+17. viewport、rem原理
 ## 三、HTML篇
 1. HTML5新特性<br>
 2. [常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)<br>
@@ -117,6 +120,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 7. DNS解析过程 DNS劫持
 8. TCP三次握手
 9. websocket
+10. 三次握手，四次挥手
 ## 十一、web存储
 1. cookie<br>
 2. localStorage sessionStorage<br>
@@ -169,6 +173,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 [详见我的《深入浅出NodeJs读书笔记》](https://github.com/liyayun713/Head-First-NodeJs)  
 1. express  
 2. koa
+3. setImmediate 和Process.nextTick 的区别
 ## 二十五、Photoshop
 ## 二十六、SQL
 ## 二十七、算法相关
