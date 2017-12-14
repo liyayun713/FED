@@ -64,99 +64,99 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 16. 前后端分离
 17. 实现qq浏览器官网
 ## 五、webpack
-  [1、打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
-  2、刷新原理<br>
-  3、模块相关<br>
-  4、webpack-dev-server热加载更新的原理<br>
-  5、入口文件配置<br>
-  6、babel插件 es6转成es5 es3的原理<br>
-  7、webpack.optimize.UglifyJsPlugin插件的压缩速度很慢<br>
-  8、loader原理机制<br>
+1. [打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
+2. 刷新原理
+3. 模块相关
+4. webpack-dev-server热加载更新的原理
+5. 入口文件配置
+6. babel插件 es6转成es5 es3的原理
+7. webpack.optimize.UglifyJsPlugin插件的压缩速度很慢
+8. loader原理机制
 ## 六、Vue
-  [1、双向数据绑定原理](https://github.com/liyayun713/FED/blob/master/Vue/data-bind.md)<br>
-  [2、vuex](https://github.com/liyayun713/FED/blob/master/Vue/vuex.md)<br>
-  3、vue-router<br>
-  4、VDOM<br>
-  5、SSR<br>
-  [6、全局API](https://github.com/liyayun713/FED/blob/master/Vue/GlobalAPI.md)<br>
-  [7、Vue单向数据流](https://github.com/liyayun713/FED/blob/master/Vue/one-way-data-flow.md)<br>
-  [8、几种组件间通讯的方式](https://github.com/liyayun713/FED/blob/master/Vue/component-communication.md)<br>
-  [9、事件机制](https://github.com/liyayun713/FED/blob/master/Vue/Events.md)<br>
-  [10、VNode](https://github.com/liyayun713/FED/blob/master/Vue/vnode.md)<br>
-  [11、keep-alive组件的使用及其原理](https://github.com/liyayun713/FED/blob/master/Vue/keep-alive.md)<br>
-  [12、created 和 mounted 的差异](https://github.com/liyayun713/FED/blob/master/Vue/CreatedMounted.md)<br>
-  [13、Vue的各种watch监听](https://github.com/liyayun713/FED/blob/master/Vue/watch.md)<br>
+1. [双向数据绑定原理](https://github.com/liyayun713/FED/blob/master/Vue/data-bind.md)
+2. [vuex](https://github.com/liyayun713/FED/blob/master/Vue/vuex.md)
+3. vue-router
+4. VDOM
+5. SSR
+6. [全局API](https://github.com/liyayun713/FED/blob/master/Vue/GlobalAPI.md)
+7. [Vue单向数据流](https://github.com/liyayun713/FED/blob/master/Vue/one-way-data-flow.md)
+8. [几种组件间通讯的方式](https://github.com/liyayun713/FED/blob/master/Vue/component-communication.md)
+9. [事件机制](https://github.com/liyayun713/FED/blob/master/Vue/Events.md)
+10. [VNode](https://github.com/liyayun713/FED/blob/master/Vue/vnode.md)
+11. [keep-alive组件的使用及其原理](https://github.com/liyayun713/FED/blob/master/Vue/keep-alive.md)
+12. [created 和 mounted 的差异](https://github.com/liyayun713/FED/blob/master/Vue/CreatedMounted.md)
+13. [Vue的各种watch监听](https://github.com/liyayun713/FED/blob/master/Vue/watch.md)
 ## 七、ES6
-  1、promise 手写一个ajax的promise封装<br>
-  2、let const<br>
-  3、Promise Generator Async比较<br>
-  4、class与es5中的prototype区别<br>
-  [5、ES6常用语法](https://github.com/liyayun713/FED/blob/master/ES6/ES6.md)<br>
+1. promise 手写一个ajax的promise封装
+2. let const
+3. Promise Generator Async比较
+4. class与es5中的prototype区别
+5. [ES6常用语法](https://github.com/liyayun713/FED/blob/master/ES6/ES6.md)
 ## 八、浏览器
-  [1、浏览器的结构组成](https://github.com/liyayun713/FED/blob/master/Browser/Browser.md)  
-  2、浏览器解析过程 浏览器工作原理<br>
-  [3、浏览器渲染引擎](https://github.com/liyayun713/FED/blob/master/Browser/RenderingEngine.md)  
-  4、js解析引擎<br>
-  5、webkit内核在渲染时有什么性能问题<br>
-  6、抓包工具 移动端如何调试<br>
-  7、css和js加载时的差异<br>
-  8、路由实现<br>
-  9、浏览器缓存<br>
-  [10、Chrome浏览器调试指南](https://github.com/liyayun713/FED/blob/master/Browser/browser-debugger.md)<br>
-  [11、移动端浏览器大集合](https://github.com/liyayun713/FED/blob/master/Browser/MobileBrowser.md)  
+1. [浏览器的结构组成](https://github.com/liyayun713/FED/blob/master/Browser/Browser.md)  
+2. 浏览器解析过程 浏览器工作原理
+3. [浏览器渲染引擎](https://github.com/liyayun713/FED/blob/master/Browser/RenderingEngine.md)  
+4. js解析引擎
+5. webkit内核在渲染时有什么性能问题
+6. 抓包工具 移动端如何调试
+7. css和js加载时的差异
+8. 路由实现
+9. 浏览器缓存
+10. [Chrome浏览器调试指南](https://github.com/liyayun713/FED/blob/master/Browser/browser-debugger.md)
+11. [移动端浏览器大集合](https://github.com/liyayun713/FED/blob/master/Browser/MobileBrowser.md)  
 ## 九、性能优化
-  [1、前段性能监控](http://www.baidu.com)<br>
-  [2、动画卡顿的性能优化](http://www.baidu.com)<br>
+1. 前段性能监控
+2. 动画卡顿的性能优化
 ## 十、网络相关
-  1、ajax<br>
-  [2、http协议](https://github.com/liyayun713/FED/blob/master/network/http.md)<br>
-  [3、HTTP常用状态码](https://github.com/liyayun713/FED/blob/master/network/HttpStatusCode.md)<br>
-  [4、各种请求类型的区别 get post](https://github.com/liyayun713/FED/blob/master/network/get-post.md)<br>
-  5、XHR和http区别<br>
-  6、http1.0 http2.0区别<br>
-  7、DNS解析过程 DNS劫持<br>
-  8、TCP三次握手<br>
-  9、websocket<br>
+1. ajax
+2. [http协议](https://github.com/liyayun713/FED/blob/master/network/http.md)<br>
+3. [HTTP常用状态码](https://github.com/liyayun713/FED/blob/master/network/HttpStatusCode.md)<br>
+4. [各种请求类型的区别 get post](https://github.com/liyayun713/FED/blob/master/network/get-post.md)<br>
+5. XHR和http区别
+6. http1.0 http2.0区别
+7. DNS解析过程 DNS劫持
+8. TCP三次握手
+9. websocket
 ## 十一、web存储
-  [1、cookie](http://www.baidu.com)<br>
-  [2、localStorage sessionStorage](http://www.baidu.com)<br>
-  [3、indexDB](http://www.baidu.com)<br>
-  [4、HTTP缓存](http://www.baidu.com)<br>
+1. cookie<br>
+2. localStorage sessionStorage<br>
+3. indexDB<br>
+4. HTTP缓存<br>
 ## 十二、模块化
 1. AMD CMD cocommonJS<br>
 2. requirejs seajs<br>
 3. import export es6的跟其他模块化的区别<br>
-4. [MVC MVVM MVP](http://www.baidu.com)<br>
+4. [MVC MVVM MVP](https://github.com/liyayun713/FED/blob/master/Module/mvcMvpMvvm.md)<br>
 ## 十三、移动端相关
-  [1、移动布局方案](https://github.com/liyayun713/FED/blob/master/mobile/Layout-scheme.md)<br>
-  2、响应式开发<br>
-  3、touch tap事件<br>
-  4、GPU渲染<br>
-  5、SPA首屏空白原因<br>
-  6、移动端1px边框原理及实现<br>
+1. [移动布局方案](https://github.com/liyayun713/FED/blob/master/mobile/Layout-scheme.md)
+2. 响应式开发
+3. touch tap事件
+4. GPU渲染
+5. SPA首屏空白原因
+6. 移动端1px边框原理及实现
 ## 十四、兼容性专题（PC、移动）
-  1、移动端输入键盘会把fixed定位挤上去<br/>
-  2、不同浏览器会对input表单设置一个默认的border和宽度<br/>
-  3、不同的浏览器会对button设置一个默认的背景颜色和border<br/>
-  4、border-color使用linear-gradient时有的浏览器会默认一个border，解决方案：设置border: 0  
-  5、ios输入框input默认光标和height相同，解决方案，设置padding，把height设置小一点  
+1. 移动端输入键盘会把fixed定位挤上去
+2. 不同浏览器会对input表单设置一个默认的border和宽度
+3. 不同的浏览器会对button设置一个默认的背景颜色和border
+4. border-color使用linear-gradient时有的浏览器会默认一个border，解决方案：设置border: 0
+5. ios输入框input默认光标和height相同，解决方案，设置padding，把height设置小一点
 ## 十五、web安全
-  [1、https](http://www.baidu.com)<br>
-  [2、xss](http://www.baidu.com)<br>
-  [3、xsrf](http://www.baidu.com)<br>
-  [4、sql注入](http://www.baidu.com)<br>
+1. HTTPS<br>
+2. XSS<br>
+3. XSRF<br>
+4. SQL注入<br>
 ## 十六、Canvas
-  [1、绘制散点曲线](http://www.baidu.com)<br>
-  [2、高阶贝塞尔曲线拟合](http://www.baidu.com)<br>
-  [3、监听点击事件](http://www.baidu.com)<br>
+1. 绘制散点曲线
+2. 高阶贝塞尔曲线拟合
+3. 监听点击事件
 ## 十七、版本管理
-  1、Git<br>
-  2、SVN<br>
+1. Git
+2. SVN
 ## 十八、源码解读
-  1、Vue<br>
-  2、Jquery<br>
-  3、Angular<br>
-  4、Zepto<br>
+1. Vue
+2. Jquery
+3. Angular
+4. Zepto
 ## 十九、Angular
 ## 二十、Underscore
   [1、如何写自己的Underscore](https://github.com/liyayun713/FED/blob/master/Underscore/UnderscoreDIY.md)<br>
@@ -166,14 +166,14 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   2、微信公众号
 ## 二十三、SEO
 ## 二十四、Node.js
-  [详见我的《深入浅出NodeJs读书笔记》](https://github.com/liyayun713/Head-First-NodeJs)  
-  1、express  
-  2、koa
+[详见我的《深入浅出NodeJs读书笔记》](https://github.com/liyayun713/Head-First-NodeJs)  
+1. express  
+2. koa
 ## 二十五、Photoshop
 ## 二十六、SQL
 ## 二十七、算法相关
-  1、线性顺序存储结构和链式存储结构<br>
-  2、二分查找的时间复杂度怎么计算<br>
-  3、快速排序和二分查找
+1. 线性顺序存储结构和链式存储结构
+2. 二分查找的时间复杂度怎么计算
+3. 快速排序和二分查找
 ## 二十八、jQuery
 ## 二十九、WebGL
