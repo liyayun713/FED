@@ -1,6 +1,7 @@
 # MVC MVP MVVP
 ## 一、MVC
-MVC模式的意思是，软件可以分成三个部分
+MVC模式的意思是，软件可以分成三个部分  
+
 ![](http://image.beekka.com/blog/2015/bg2015020104.png)
 
 * 视图（View）：用户界面
