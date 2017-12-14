@@ -123,10 +123,10 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
   [3、indexDB](http://www.baidu.com)<br>
   [4、HTTP缓存](http://www.baidu.com)<br>
 ## 十二、模块化
-  [1、AMD CMD cocommonJS](http://www.baidu.com)<br>
-  [2、requirejs seajs](http://www.baidu.com)<br>
-  [3、import export es6的跟其他模块化的区别](http://www.baidu.com)<br>
-  [4、MVC MVVM MVP](http://www.baidu.com)<br>
+1. AMD CMD cocommonJS<br>
+2. requirejs seajs<br>
+3. import export es6的跟其他模块化的区别<br>
+4. [MVC MVVM MVP](http://www.baidu.com)<br>
 ## 十三、移动端相关
   [1、移动布局方案](https://github.com/liyayun713/FED/blob/master/mobile/Layout-scheme.md)<br>
   2、响应式开发<br>
