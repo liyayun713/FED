@@ -36,3 +36,15 @@ Webkit 内核的浏览器，必须加上-webkit前缀。
 
 容器默认存在两根轴：`水平的主轴（main axis）`和`垂直的交叉轴（cross axis）`。主轴的开始位置（与边框的交叉点）叫做`main start`，结束位置叫做`main end`；交叉轴的开始位置叫做`cross start`，结束位置叫做`cross end`。
 项目默认沿主轴排列。单个项目占据的主轴空间叫做`main size`，占据的交叉轴空间叫做`cross size`。
+
+## 三、容器的属性
+以下6个属性设置在容器上。  
+
+```
+* flex-direction
+* flex-wrap
+* flex-flow
+* justify-content
+* align-items
+* align-content
+```
