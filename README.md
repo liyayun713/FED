@@ -66,6 +66,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 15. [保险红包项目](https://github.com/liyayun713/FED/blob/master/FED/redPacket.md)
 16. 前后端分离
 17. 实现qq浏览器官网
+18. [前端代码异常监控](https://github.com/liyayun713/FED/blob/master/FED/JsError.md)
 ## 五、webpack
 1. [打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
 2. 刷新原理
