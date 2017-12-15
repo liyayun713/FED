@@ -107,7 +107,8 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 8. 路由实现
 9. 浏览器缓存
 10. [Chrome浏览器调试指南](https://github.com/liyayun713/FED/blob/master/Browser/browser-debugger.md)
-11. [移动端浏览器大集合](https://github.com/liyayun713/FED/blob/master/Browser/MobileBrowser.md)  
+11. [移动端浏览器大集合](https://github.com/liyayun713/FED/blob/master/Browser/MobileBrowser.md)
+12. 主流浏览器内核介绍
 ## 九、性能优化
 1. 前段性能监控
 2. 动画卡顿的性能优化
