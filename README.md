@@ -1,7 +1,5 @@
 # FE知识点梳理
-```javascript
-document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
-```
+### 123456
 ## 一、JS篇
 1. [this call apply bind](https://github.com/liyayun713/GET_FE/blob/master/js/this%20call%20apply%20bind.md)
 2. 原型 原型链 继承
@@ -11,7 +9,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 6. [深拷贝 浅拷贝](https://github.com/liyayun713/FED/blob/master/js/%E6%B7%B1%E6%8B%B7%E8%B4%9D&%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
 7. DOM操作(增删改查)
 8. 数组去重排序
-9. [柯里化](https://github.com/liyayun713/FED/blob/master/js/Currying.md)
+9. [柯里化](https://github.com/liyayun713/FED/blob/master/js/Currying.md)---什么是函数柯里化？以及说一下JS的API有哪些应用到了函数柯里化的实现？
 10. 创建对象的几种方法
 11. 数据类型判断
 12. [Javascript设计模式](https://github.com/liyayun713/FED/blob/master/js/DesignPatterns.md)
@@ -27,6 +25,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 23. [JavaScript执行机制](https://github.com/liyayun713/GET_FE/blob/master/js/ExecutionMechanism.md)
 24. 函数节流
 25. 检测数据类型的方法
+26. 原型链，对象，构造函数之间的一些联系
 ## 二、CSS篇
 1. [Flex弹性布局语法篇](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md) --- [Flex弹性布局实例篇](https://github.com/liyayun713/FED/blob/master/CSS/FlexExample.md)
 2. Grid栅格布局
@@ -46,8 +45,9 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 16. [如何使用css画一个正方体](https://github.com/liyayun713/FED/blob/master/CSS/Cube.md)
 17. viewport、rem原理
 ## 三、HTML篇
-1. HTML5新特性<br>
-2. [常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)<br>
+1. HTML5新特性
+2. [常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)
+3. DOM事件中target和currentTarget的区别
 ## 四、综合
 1. [从输入URL到页面加载过程](https://github.com/liyayun713/FED/blob/master/FED/UrlLoadProcedure.md)<br>
 2. [跨域](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
@@ -77,6 +77,11 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 6. babel插件 es6转成es5 es3的原理
 7. webpack.optimize.UglifyJsPlugin插件的压缩速度很慢
 8. loader原理机制
+9. webpack的入口文件怎么配置，多个入口怎么分割
+10. Babel的一个插件：transform-runtime以及stage-2，你说一下他们的作用
+11. webpack的loader,他的原理以及啥的
+12. webpack的一些原理和机制，怎么实现的
+13. babel把ES6转成ES5或者ES3之类的原理是什
 ## 六、Vue
 1. [双向数据绑定原理](https://github.com/liyayun713/FED/blob/master/Vue/data-bind.md)
 2. [vuex](https://github.com/liyayun713/FED/blob/master/Vue/vuex.md)
@@ -91,6 +96,7 @@ document.getElementById('tony').innerHTML = '社会我Y哥 人狠话不多!';
 11. [keep-alive组件的使用及其原理](https://github.com/liyayun713/FED/blob/master/Vue/keep-alive.md)
 12. [created 和 mounted 的差异](https://github.com/liyayun713/FED/blob/master/Vue/CreatedMounted.md)
 13. [Vue的各种watch监听](https://github.com/liyayun713/FED/blob/master/Vue/watch.md)
+14. vue的缺点是什么？
 ## 七、ES6
 1. promise 手写一个ajax的promise封装
 2. let const
