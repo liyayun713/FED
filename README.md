@@ -26,6 +26,7 @@
 24. 函数节流
 25. 检测数据类型的方法
 26. 原型链，对象，构造函数之间的一些联系
+27. [getBoundingClientRect]((https://github.com/liyayun713/GET_FE/blob/master/js/getBoundingClientRect.md))
 ## 二、CSS篇
 1. [Flex弹性布局语法篇](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md) --- [Flex弹性布局实例篇](https://github.com/liyayun713/FED/blob/master/CSS/FlexExample.md)
 2. Grid栅格布局
