@@ -69,6 +69,7 @@
 17. 实现qq浏览器官网
 18. [前端代码异常监控](https://github.com/liyayun713/FED/blob/master/FED/JsError.md)
 19. 前端监控系统（页面加载时间、用户设备统计、错误量的统计）[相关链接](https://juejin.im/post/5a372716518825258a5fbc80)
+20. touch事件
 ## 五、webpack
 1. [打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
 2. 刷新原理
