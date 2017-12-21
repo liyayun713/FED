@@ -96,7 +96,8 @@ if (typeof Parent._lev == "undefined") {
   Parent._lev=true;
 }
 ```
-从而保证创建该对象的实例时，属性的方法不会被重复创建
+从而保证创建该对象的实例时，属性的方法不会被重复创建  
+
 3. 推荐使用这种模式
 ```js
 function Parent(){ 
