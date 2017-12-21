@@ -10,7 +10,7 @@
 7. DOM操作(增删改查)
 8. 数组去重排序
 9. [柯里化](https://github.com/liyayun713/FED/blob/master/js/Currying.md)---什么是函数柯里化？以及说一下JS的API有哪些应用到了函数柯里化的实现？
-10. 创建对象的几种方法
+10. [创建对象的几种方法](https://github.com/liyayun713/FED/blob/master/js/createObject.md)
 11. 数据类型判断
 12. [Javascript设计模式](https://github.com/liyayun713/FED/blob/master/js/DesignPatterns.md)
 13. setTimeout setInterval 定时器原理
