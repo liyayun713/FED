@@ -1,5 +1,5 @@
-# FE知识点梳理
-### 123456
+# 前端那些事儿
+
 ## 一、JS篇
 1. [this call apply bind](https://github.com/liyayun713/GET_FE/blob/master/js/this%20call%20apply%20bind.md)
 2. 原型 原型链 继承
@@ -84,6 +84,7 @@
 11. webpack的loader,他的原理以及啥的
 12. webpack的一些原理和机制，怎么实现的
 13. babel把ES6转成ES5或者ES3之类的原理是什
+14. [package.json中 dependcies 和 devDependcies 的区别](https://github.com/liyayun713/GET_FE/blob/master/webpack/packageJson.md)
 ## 六、Vue
 1. [双向数据绑定原理](https://github.com/liyayun713/FED/blob/master/Vue/data-bind.md)
 2. [vuex](https://github.com/liyayun713/FED/blob/master/Vue/vuex.md)
