@@ -100,6 +100,7 @@
 13. [Vue的各种watch监听](https://github.com/liyayun713/FED/blob/master/Vue/watch.md)
 14. vue的缺点是什么？
 ## 七、ES6
+0. [ES6 和 Babel](https://github.com/liyayun713/FED/blob/master/ES6/ES6&Babel.md)
 1. promise 手写一个ajax的promise封装
 2. let const
 3. Promise Generator Async比较
