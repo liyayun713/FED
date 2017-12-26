@@ -107,6 +107,7 @@
 3. Promise Generator Async比较
 4. class与es5中的prototype区别
 5. [ES6常用语法](https://github.com/liyayun713/FED/blob/master/ES6/ES6.md)
+6. [扩展运算符（...）](https://github.com/liyayun713/FED/blob/master/ES6/spread.md)
 ## 八、浏览器
 1. [浏览器的结构组成](https://github.com/liyayun713/FED/blob/master/Browser/Browser.md)  
 2. 浏览器解析过程 浏览器工作原理
