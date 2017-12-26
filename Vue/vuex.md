@@ -27,11 +27,15 @@ const store = new Vuex({
   }
 });
 ```
-执行
+
+现在，你可以通过 store.state 来获取状态对象，以及通过 store.commit 方法触发状态变更：
+
 ```js
 store.commit('increment');
 console.log(store.state.count);   // 1
 ```
+
+由于 store 中的状态是响应式的，在组件中调用 store 中的状态简单到仅需要在`计算属性中`返回即可。触发变化也仅仅是在组件的`methods 中提交 mutation`
 
 ## 核心概念
 ### 1、state -- 单一状态树
