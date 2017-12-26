@@ -86,9 +86,82 @@ const Counter = {
 }
 ```
 
+#### mapState 辅助函数
+当一个组件需要获取多个状态时候，将这些状态都声明为计算属性会有些重复和冗余。为了解决这个问题，我们可以使用 `mapState` 辅助函数帮助我们生成计算属性，让你少按几次键：
+
+```js
+// 在单独构建的版本中辅助函数为 Vuex.mapState
+import { mapState } from 'vuex'
+
+export default {
+  // ...
+  computed: mapState({
+    // 箭头函数可使代码更简练
+    count: state => state.count,
+
+    // 传字符串参数 'count' 等同于 `state => state.count`
+    countAlias: 'count',
+
+    // 为了能够使用 `this` 获取局部状态，必须使用常规函数
+    countPlusLocalState (state) {
+      return state.count + this.localCount
+    }
+  })
+}
+```
+
+#### 对象展开运算符
+mapState 函数返回的是一个对象。我们如何将它与局部计算属性混合使用呢？通常，我们需要使用一个工具函数将多个对象合并为一个，以使我们可以将最终对象传给 computed 属性。但是自从有了对象展开运算符（现处于 ECMASCript 提案 stage-3 阶段），我们可以极大地简化写法：
+
+```js
+computed: {
+  localComputed () { /* ... */ },
+  
+  // 使用对象展开运算符将此对象混入到外部对象中
+  ...mapState({
+    // ...
+  })
+}
+```
+
+
 ### 2、Getter -- 可以认为是 store 的计算属性
+有时候我们需要从 store 中的 state 中派生出一些状态，例如对列表进行过滤并计数：
+
+```js
+computed: {
+  doneTodosCount () {
+    return this.$store.state.todos.filter(todo => todo.done).length
+  }
+}
+```
+
+如果有多个组件需要用到此属性，我们要么复制这个函数，或者抽取到一个共享函数然后在多处导入它——无论哪种方式都不是很理想。  
+
+Vuex 允许我们在 store 中定义“getter”（可以认为是 store 的计算属性）。就像计算属性一样，getter 的返回值会根据它的依赖被缓存起来，且只有当它的依赖值发生了改变才会被重新计算。  
+
+Getter 接受 state 作为其第一个参数：
+
+```js
+const store = new Vuex.Store({
+  state: {
+    todos: [
+      { id: 1, text: '...', done: true },
+      { id: 2, text: '...', done: false }
+    ]
+  },
+  getters: {
+    doneTodos: state => {
+      return state.todos.filter(todo => todo.done)
+    }
+  }
+})
+```
+
+
 ### 3、Mutations -- 更改 Vuex 的 store 中的状态的唯一方法是提交 mutation
-Vuex 中的 mutation 非常类似于事件：每个 mutation 都有一个字符串的 事件类型 (type) 和 一个 回调函数 (handler)。这个回调函数就是我们实际进行状态更改的地方，并且它会接受 state 作为第一个参数：  
+**更改 Vuex 的 store 中的状态的唯一方法是提交 mutation。**
+
 ```js
 const store = new Vuex.Store({
   state: {
@@ -102,7 +175,109 @@ const store = new Vuex.Store({
   }
 })
 ```
+
+#### 对象风格的提交方式
+提交 mutation 的另一种方式是直接使用包含 type 属性的对象：
+
+```js
+store.commit({
+  type: 'increment',
+  amount: 10
+})
+```
+
+当使用对象风格的提交方式，整个对象都作为载荷传给 mutation 函数，因此 handler 保持不变：
+
+```js
+mutations: {
+  increment (state, payload) {
+    state.count += payload.amount
+  }
+}
+```
+
+#### 使用常量替代 Mutation 事件类型 (mutation-types.js)
+
+使用常量替代 mutation 事件类型在各种 Flux 实现中是很常见的模式。这样可以使 linter 之类的工具发挥作用，同时把这些常量放在单独的文件中可以让你的代码合作者对整个 app 包含的 mutation 一目了然：
+
+```js
+// mutation-types.js
+export const SOME_MUTATION = 'SOME_MUTATION'
+// store.js
+import Vuex from 'vuex'
+import { SOME_MUTATION } from './mutation-types'
+
+const store = new Vuex.Store({
+  state: { ... },
+  mutations: {
+    // 我们可以使用 ES2015 风格的计算属性命名功能来使用一个常量作为函数名
+    [SOME_MUTATION] (state) {
+      // mutate state
+    }
+  }
+})
+```
+
+#### 在组件中提交 Mutation
+你可以在组件中使用 `this.$store.commit('xxx')` 提交 mutation，或者使用 `mapMutations` 辅助函数将组件中的 methods 映射为 store.commit 调用（需要在根节点注入 store）。
+
+```js
+import { mapMutations } from 'vuex'
+
+export default {
+  // ...
+  methods: {
+    ...mapMutations([
+      'increment', // 将 `this.increment()` 映射为 `this.$store.commit('increment')`
+
+      // `mapMutations` 也支持载荷：
+      'incrementBy' // 将 `this.incrementBy(amount)` 映射为 `this.$store.commit('incrementBy', amount)`
+    ]),
+    ...mapMutations({
+      add: 'increment' // 将 `this.add()` 映射为 `this.$store.commit('increment')`
+    })
+  }
+}
+```
+
 ### 4、Action -- 类似于 mutation
+Action 类似于 mutation，不同在于:  
+
+* Action 提交的是 mutation，而不是直接变更状态。
+* Action 可以包含任意异步操作。
+
+让我们来注册一个简单的 action：
+
+```js
+const store = new Vuex.Store({
+  state: {
+    count: 0
+  },
+  mutations: {
+    increment (state) {
+      state.count++
+    }
+  },
+  actions: {
+    increment (context) {
+      context.commit('increment')
+    }
+  }
+})
+```
+
+实践中，我们会经常用到 ES2015 的 参数解构 来简化代码（特别是我们需要调用 commit 很多次的时候）：
+
+```js
+actions: {
+  increment ({ commit }) {
+    commit('increment')
+  }
+}
+```
+
+
+
 ### 5、Module -- 模块化
 由于使用单一状态树，应用的所有状态会集中到一个比较大的对象。当应用变得非常复杂时，store 对象就有可能变得相当臃肿。  
 
@@ -141,3 +316,39 @@ Vuex 并不限制你的代码结构。但是，它规定了一些需要遵守的
 
 * 异步逻辑都应该封装到 action 里面
 
+## 插件
+```js
+const store = new Vuex.Store({
+  // ...
+  plugins: [myPlugin]
+})
+```
+
+内置 Logger 插件
+```js
+import createLogger from 'vuex/dist/logger'
+
+const store = new Vuex.Store({
+  plugins: [createLogger()]
+})
+```
+
+### 严格模式
+开启严格模式，仅需在创建 store 的时候传入 strict: true
+
+```js
+const store = new Vuex.Store({
+  // ...
+  strict: true
+})
+```
+
+在严格模式下，无论何时发生了状态变更且不是由 mutation 函数引起的，将会抛出错误。这能保证所有的状态变更都能被调试工具跟踪到。
+
+#### 不要在发布环境下启用严格模式！严格模式会深度监测状态树来检测不合规的状态变更——请确保在发布环境下关闭严格模式，以避免性能损失。
+```js
+const store = new Vuex.Store({
+  // ...
+  strict: process.env.NODE_ENV !== 'production'
+})
+```
