@@ -49,6 +49,7 @@
 1. HTML5新特性
 2. [常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)
 3. DOM事件中target和currentTarget的区别
+4. [audio 标签](https://github.com/liyayun713/FED/blob/master/HTML/audio.md)
 ## 四、综合
 1. [从输入URL到页面加载过程](https://github.com/liyayun713/FED/blob/master/FED/UrlLoadProcedure.md)<br>
 2. [跨域](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
