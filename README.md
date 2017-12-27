@@ -27,6 +27,7 @@
 25. 检测数据类型的方法
 26. 原型链，对象，构造函数之间的一些联系
 27. [getBoundingClientRect](https://github.com/liyayun713/GET_FE/blob/master/js/getBoundingClientRect.md)
+28. [DOM事件中target和currentTarget的区别](https://github.com/liyayun713/GET_FE/blob/master/js/target_currentTarget.md)
 ## 二、CSS篇
 1. [Flex弹性布局语法篇](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md) --- [Flex弹性布局实例篇](https://github.com/liyayun713/FED/blob/master/CSS/FlexExample.md)
 2. Grid栅格布局
@@ -48,8 +49,7 @@
 ## 三、HTML篇
 1. HTML5新特性
 2. [常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)
-3. DOM事件中target和currentTarget的区别
-4. [audio 标签](https://github.com/liyayun713/FED/blob/master/HTML/audio.md)
+3. [audio 标签](https://github.com/liyayun713/FED/blob/master/HTML/audio.md)
 ## 四、综合
 1. [从输入URL到页面加载过程](https://github.com/liyayun713/FED/blob/master/FED/UrlLoadProcedure.md)<br>
 2. [跨域](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
