@@ -41,20 +41,20 @@
 
 ```js
 var ul = document.getElementById('ul');
-		ul.onclick = function (e) {
-        console.log(e.currentTarget);   // 点击到ul时，返回绑定的ul
-        var target = e.target;
-        var currentTarget = e.currentTarget;
-        var name = target.nodeName;
-        console.log('你点击了：' + name);
-        e.preventDefault();
-		}
+ul.onclick = function (e) {
+    console.log(e.currentTarget);   // 点击到ul时，返回绑定的ul
+    var target = e.target;
+    var currentTarget = e.currentTarget;
+    var name = target.nodeName;
+    console.log('你点击了：' + name);
+    e.preventDefault();
+}
 ```
 
 ### 实际使用中target的妙用---事件委托
 target事件委托的定义：本来该自己干的事，但是自己不干，交给别人来干。比如上面的例子中，应该是ul li a 来监控自身的点击事件，但是li a自己不监控这个点击事件了，全部交给li父节点和a祖父节点ul来监控自己的点击事件。一般用到for循环遍历节点添加事件的时候都可以用事件委托来做，可以提高性能。
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
