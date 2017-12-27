@@ -127,9 +127,9 @@
 2. 动画卡顿的性能优化
 ## 十、网络相关
 1. ajax
-2. [http协议](https://github.com/liyayun713/FED/blob/master/network/http.md)<br>
-3. [HTTP常用状态码](https://github.com/liyayun713/FED/blob/master/network/HttpStatusCode.md)<br>
-4. [各种请求类型的区别 get post](https://github.com/liyayun713/FED/blob/master/network/get-post.md)<br>
+2. [http协议](https://github.com/liyayun713/FED/blob/master/network/http.md)
+3. [HTTP常用状态码](https://github.com/liyayun713/FED/blob/master/network/HttpStatusCode.md)
+4. [各种请求类型的区别 get post](https://github.com/liyayun713/FED/blob/master/network/get-post.md)
 5. XHR和http区别
 6. http1.0 http2.0区别
 7. DNS解析过程 DNS劫持
@@ -137,15 +137,14 @@
 9. websocket
 10. 三次握手，四次挥手
 ## 十一、web存储
-1. cookie<br>
-2. localStorage sessionStorage<br>
-3. indexDB<br>
-4. HTTP缓存<br>
+1. [前端本地存储 (cookie、localStorage、sessionStorage)](https://github.com/liyayun713/FED/blob/master/storage/cookie_localStorage_sessionStorage.md)
+2. indexDB
+3. HTTP缓存
 ## 十二、模块化
-1. AMD CMD cocommonJS<br>
-2. requirejs seajs<br>
-3. import export es6的跟其他模块化的区别<br>
-4. [MVC MVVM MVP](https://github.com/liyayun713/FED/blob/master/Module/mvcMvpMvvm.md)<br>
+1. AMD CMD cocommonJS
+2. requirejs seajs
+3. import export es6的跟其他模块化的区别
+4. [MVC MVVM MVP](https://github.com/liyayun713/FED/blob/master/Module/mvcMvpMvvm.md)
 ## 十三、移动端相关
 1. [移动布局方案](https://github.com/liyayun713/FED/blob/master/mobile/Layout-scheme.md)
 2. 响应式开发
@@ -178,7 +177,7 @@
 4. Zepto
 ## 十九、Angular
 ## 二十、Underscore
-  [1、如何写自己的Underscore](https://github.com/liyayun713/FED/blob/master/Underscore/UnderscoreDIY.md)<br>
+  [1、如何写自己的Underscore](https://github.com/liyayun713/FED/blob/master/Underscore/UnderscoreDIY.md)
 ## 二十一、Bootstrap Sass Less
 ## 二十二、小程序、微信公众号
   1、微信小程序  
