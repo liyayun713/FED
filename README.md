@@ -1,4 +1,25 @@
 # 前端那些事儿
+```html
+<h1>2018-TodoList</h1>
+<p>写于2018年01月02日</p>
+<ul>
+ <li>坚持学习前端</li>
+ <li>深入学习Node、Mongodb</li>
+ <li>学习Python</li>
+ <li>Github上有项目star破百</li>
+ <li>三本技术书籍+两本其他书籍</li>
+ <li>做一个微信小游戏</li>
+ <li>个人网站上线</li>
+ <li>进入BAT等一线互联网公司</li>
+ <li>学习摄影</li>
+ <li>股市小试牛刀</li>
+ <li>健身，体重降到150以下</li>
+ <li>日本or台湾旅游</li>
+ <li>国内某地旅游</li>
+ <li>香港</li>
+ <li>澳门</li>
+</ul>
+```
 
 ## 一、JS篇
 1. [this call apply bind](https://github.com/liyayun713/GET_FE/blob/master/js/this%20call%20apply%20bind.md)
