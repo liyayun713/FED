@@ -4,8 +4,8 @@
 <p>写于2018年01月02日</p>
 <ul>
  <li>坚持学习前端，每月github提交天数大于20</li>
- <li>学习Node、Mongodb</li>
- <li>学习Python</li>
+ <li>深入学习Node、Mongodb</li>
+ <li>学习Python，扒取热门网站数据</li>
  <li>Github上有项目star破百</li>
  <li>三本技术书籍+两本其他书籍</li>
  <li>做一个微信小游戏</li>
@@ -16,8 +16,8 @@
  <li>健身，体重降到150以下</li>
  <li>日本or台湾旅游</li>
  <li>国内某地旅游</li>
- <li>香港</li>
- <li>澳门</li>
+ <li>去一趟香港</li>
+ <li>去一趟澳门</li>
 </ul>
 ```
 
