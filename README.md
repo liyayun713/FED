@@ -3,8 +3,8 @@
 <h1>2018-TodoList</h1>
 <p>写于2018年01月02日</p>
 <ul>
- <li>坚持学习前端</li>
- <li>深入学习Node、Mongodb</li>
+ <li>坚持学习前端，每月github提交天数大于20</li>
+ <li>学习Node、Mongodb</li>
  <li>学习Python</li>
  <li>Github上有项目star破百</li>
  <li>三本技术书籍+两本其他书籍</li>
