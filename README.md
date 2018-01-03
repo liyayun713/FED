@@ -6,12 +6,14 @@
  <li>坚持学习前端，每月github提交天数大于20</li>
  <li>深入学习Node、Mongodb</li>
  <li>学习Python，扒取热门网站数据</li>
+ <li>学习Java</li>
  <li>Github上有项目star破百</li>
- <li>三本技术书籍+两本其他书籍</li>
+ <li>五本技术书籍+三本其他书籍</li>
  <li>做一个微信小游戏</li>
  <li>个人网站上线</li>
  <li>跳槽到一家优质的公司</li>
  <li>学习摄影</li>
+ <li>使用全民k歌录制5首超过SS的歌曲</li>
  <li>股市小试牛刀</li>
  <li>健身，体重降到150以下</li>
  <li>日本or台湾旅游</li>
