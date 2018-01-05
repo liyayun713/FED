@@ -46,7 +46,7 @@
 21. [一些有趣的js题目](https://github.com/liyayun713/GET_FE/blob/master/js/problems.md)
 22. [JS发展历史](https://github.com/liyayun713/GET_FE/blob/master/js/history.md)
 23. [JavaScript执行机制](https://github.com/liyayun713/GET_FE/blob/master/js/ExecutionMechanism.md)
-24. 函数节流
+24. [函数节流](https://github.com/liyayun713/GET_FE/blob/master/js/Debounce.md)
 25. 检测数据类型的方法
 26. 原型链，对象，构造函数之间的一些联系
 27. [getBoundingClientRect](https://github.com/liyayun713/GET_FE/blob/master/js/getBoundingClientRect.md)
