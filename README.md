@@ -195,7 +195,7 @@
 2. 高阶贝塞尔曲线拟合
 3. 监听点击事件
 ## 十七、版本管理
-1. Git
+1. [Git](https://github.com/liyayun713/FED/blob/master/VersionManagement/Git.md)
 2. SVN
 ## 十八、源码解读
 1. Vue
