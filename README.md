@@ -4,6 +4,7 @@
 <p>写于2018年01月02日</p>
 <ul>
  <li>坚持学习前端，每月github提交天数大于20</li>
+  <li>学习React.js</li>
  <li>深入学习Node、Mongodb</li>
  <li>学习Python，扒取热门网站数据</li>
  <li>学习Java</li>
