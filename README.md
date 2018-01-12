@@ -226,7 +226,7 @@
 ## 二十九、WebGL
 ## 三十、React
 1. [React Introduction](https://github.com/liyayun713/FED/blob/master/React/React.md)
-2. React 安装
+2. [React 安装](https://github.com/liyayun713/FED/blob/master/React/Installation.md)
 3. React JSX
 4. React 组件
 5. React State(状态)
