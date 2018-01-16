@@ -186,6 +186,7 @@
 3. 不同的浏览器会对button设置一个默认的背景颜色和border
 4. border-color使用linear-gradient时有的浏览器会默认一个border，解决方案：设置border: 0
 5. ios输入框input默认光标和height相同，解决方案，设置padding，把height设置小一点
+6. 弹出键盘引起的bug
 ## 十五、web安全
 1. HTTPS<br>
 2. XSS<br>
