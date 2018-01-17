@@ -1,29 +1,4 @@
 # 前端那些事儿
-```html
-<h1>2018-TodoList</h1>
-<p>写于2018年01月02日</p>
-<ul>
- <li>坚持学习前端，每月github提交天数大于20</li>
-  <li>学习React.js</li>
- <li>深入学习Node、Mongodb</li>
- <li>学习Python，扒取热门网站数据</li>
- <li>学习Java</li>
- <li>Github上有项目star破百</li>
- <li>五本技术书籍+三本其他书籍</li>
- <li>做一个微信小游戏</li>
- <li>个人网站上线</li>
- <li>跳槽到一家优质的公司</li>
- <li>学习摄影</li>
- <li>学习区块链、比特币</li>
- <li>股市小试牛刀</li>
- <li>使用全民k歌录制5首超过SSS的歌曲</li>
- <li>健身，体重降到150以下</li>
- <li>日本or台湾旅游</li>
- <li>国内某地旅游</li>
- <li>去一趟香港</li>
- <li>去一趟澳门</li>
-</ul>
-```
 
 ## 一、JS篇
 1. [this call apply bind](https://github.com/liyayun713/GET_FE/blob/master/js/this%20call%20apply%20bind.md)
@@ -229,7 +204,7 @@
 1. [React Introduction](https://github.com/liyayun713/FED/blob/master/React/React.md)
 2. [React 安装](https://github.com/liyayun713/FED/blob/master/React/Installation.md)
 3. [React JSX](https://github.com/liyayun713/FED/blob/master/React/JSX.md)
-4. React 组件
+4. [React 组件](https://github.com/liyayun713/FED/blob/master/React/Component.md)
 5. React State(状态)
 6. React Props
 7. React 组件API
@@ -240,4 +215,30 @@
 ## 三十一、Typescript
 ## 三十二、PWA
 ## 三十三、WebAssembly
+
+```html
+<h1>2018-TodoList</h1>
+<p>写于2018年01月02日</p>
+<ul>
+ <li>坚持学习前端，每月github提交天数大于20</li>
+  <li>学习React.js</li>
+ <li>深入学习Node、Mongodb</li>
+ <li>学习Python，扒取热门网站数据</li>
+ <li>学习Java</li>
+ <li>Github上有项目star破百</li>
+ <li>五本技术书籍+三本其他书籍</li>
+ <li>做一个微信小游戏</li>
+ <li>个人网站上线</li>
+ <li>跳槽到一家优质的公司</li>
+ <li>学习摄影</li>
+ <li>学习区块链、比特币</li>
+ <li>股市小试牛刀</li>
+ <li>使用全民k歌录制5首超过SSS的歌曲</li>
+ <li>健身，体重降到150以下</li>
+ <li>日本or台湾旅游</li>
+ <li>国内某地旅游</li>
+ <li>去一趟香港</li>
+ <li>去一趟澳门</li>
+</ul>
+```
 
