@@ -3,6 +3,13 @@ React 使用 JSX 来替代常规的 JavaScript。
 
 JSX 是一个看起来很像 **XML** 的 JavaScript 语法扩展。  
 
+```html
+ReactDOM.Render(
+  <div>hello，world</div>,
+  document.getElementById('example')document.getElementById('example')
+)
+```
+
 我们不需要一定使用 JSX，但它有以下优点：
 
 * JSX 执行更快，因为它在编译为 JavaScript 代码后进行了优化。
