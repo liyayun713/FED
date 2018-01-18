@@ -202,7 +202,6 @@
 ## 二十九、WebGL
 ## 三十、React
 [详见我的《React 学习笔记》](https://github.com/liyayun713/React)
-11. React Refs
 ## 三十一、Typescript
 ## 三十二、PWA
 ## 三十三、WebAssembly
