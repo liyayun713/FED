@@ -201,16 +201,7 @@
 ## 二十八、jQuery
 ## 二十九、WebGL
 ## 三十、React
-1. [React Introduction](https://github.com/liyayun713/FED/blob/master/React/React.md)
-2. [React 安装](https://github.com/liyayun713/FED/blob/master/React/Installation.md)
-3. [React JSX](https://github.com/liyayun713/FED/blob/master/React/JSX.md)
-4. [React 组件](https://github.com/liyayun713/FED/blob/master/React/Component.md)
-5. [React State(状态)](https://github.com/liyayun713/FED/blob/master/React/State.md)
-6. React Props
-7. React 组件API
-8. React 组件生命周期
-9. React Ajax
-10. React 表单与事件
+[详见我的《React 学习笔记》](https://github.com/liyayun713/React)
 11. React Refs
 ## 三十一、Typescript
 ## 三十二、PWA
