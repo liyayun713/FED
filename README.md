@@ -203,6 +203,26 @@
 ## 二十九、WebGL
 ## 三十、React
 [详见我的《React 学习笔记》](https://github.com/liyayun713/React)
+* react 组件生命周期
+* setState是异步的还是同步的
+* 子组件和父组件componentDidMount哪一个先执行
+* redux的一般流程
+* 如何设计一些组件，原则是什么
+* react组件的优化
+> 从pureRenderMixin、ShouldComponentUpdate等方面说了下，以及组件的设计和木偶组建的函数编写方式说了下
+* react组件的通信
+> 这个大搞几种方式也都说了下，prop，context（顺道扯了react-redux的context实现方式）、redux甚至广播都说了一遍
+* react 的virtual dom和diff算法的实现方式
+* MVC、MVVM了解么，数据双向绑定和单向绑定实现方式
+* react-router实现方式，单页面应用相关东西
+> 大概说了下react-router的一般使用方式，以及没有使用react-router的时候如何利用h5 的history API来实现路由跳转等。
+* react的ssr了解么？大概怎么实现
+* react大概也就问了这么写，别的就是具体的业务场景改怎么写代码怎么分析，比较不大众，这里我就我细说了。其实也就考验你的项目经验吧。当然，还有一些react Native的面试题，比如常用组件，和原生如何通信之类的，这些就有赞问的多，但是因为RN玩的不是很透彻，所以对于交互原理都不是很明白。
+
+作者：Neal_yang
+链接：https://juejin.im/post/5a64541bf265da3e2d338862
+来源：掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ## 三十一、Typescript
 ## 三十二、PWA
 ## 三十三、WebAssembly
