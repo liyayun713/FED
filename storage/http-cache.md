@@ -81,7 +81,7 @@ If-None-Match:"2afd9676ae9046ed99dedd4635bb6e4a-gzip"
 
 Last-Modified 有个缺点就是它是精确到秒的，如果一秒中资源多次服务器不会感知到缓存失效，但这不是一个常见的需求。
 
-而一般不推荐使用 ETag，原因有几点
+#### 而一般不推荐使用 ETag，原因有几点
 
 * Last-Modified 的缺点基本可以忽略不计
 * ETag 本身需要消耗 CPU，而它的优先级比 Last-Modified 高，当它存在时服务器无论 Last-Modified 是否存在都会使用它判断
