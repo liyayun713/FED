@@ -194,7 +194,9 @@
 ## 十五、web安全
 1. [XSS](https://github.com/liyayun713/FED/blob/master/Security/xss.md)
 2. XSRF
-3. SQL注入
+3. HTTP劫持与对策
+4. 界面操作劫持
+5. SQL注入 
 
 ## 十六、Canvas
 1. 绘制散点曲线
