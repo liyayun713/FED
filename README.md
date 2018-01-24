@@ -8,7 +8,7 @@
 5. [事件机制 事件模型 事件委托](https://github.com/liyayun713/FED/blob/master/js/Event.md)
 6. [深拷贝 浅拷贝](https://github.com/liyayun713/FED/blob/master/js/%E6%B7%B1%E6%8B%B7%E8%B4%9D&%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
 7. DOM操作(增删改查)
-8. 数组去重排序
+8. 数组去重、排序
 9. [柯里化](https://github.com/liyayun713/FED/blob/master/js/Currying.md)---什么是函数柯里化？以及说一下JS的API有哪些应用到了函数柯里化的实现？
 10. [创建对象的几种方法](https://github.com/liyayun713/FED/blob/master/js/createObject.md)
 11. 数据类型判断
@@ -73,6 +73,16 @@
 18. [前端代码异常监控](https://github.com/liyayun713/FED/blob/master/FED/JsError.md)
 19. 前端监控系统（页面加载时间、用户设备统计、错误量的统计）[相关链接](https://juejin.im/post/5a372716518825258a5fbc80)
 20. touch事件
+21. 说一下Vue实现双向数据绑定的原理，以及vue.js和react.js异同点，如果让你选框架，你怎么怎么权衡这两个框架，分析一下
+> 主要是发布订阅的设计模式，还有就是ES5的Object.defineProperty的getter和setter机制，然后顺便扯了一下Angular的脏检测，以及alvon.js最先用到这种方式。然后扯了一下vue.js和react.js异同点，权衡框架选择，调研分析之类，噼里啪啦说了一大堆。
+22. 项目相关
+* 项目中有哪些需要改进和比较优秀的地方
+* 项目的技术栈
+* 一个业务场景，面对产品不断迭代，以及需求的变动该怎么应对，具体技术方案实现
+* 对产品的理解
+* 业务场景：比如说百度的一个服务不想让阿里使用，如果识别到是阿里的请求，然后跳转到404或者拒绝服务之类的
+> 主要是考察http协议头Referer，然后怎么判断是阿里的ip或者啥的，我也不太清楚。
+
 ## 五、webpack
 1. [打包原理](https://github.com/liyayun713/GET_FE/blob/master/webpack/webpack.html)<br>
 2. 刷新原理
@@ -112,6 +122,7 @@
 4. class与es5中的prototype区别
 5. [ES6常用语法](https://github.com/liyayun713/FED/blob/master/ES6/ES6.md)
 6. [扩展运算符（...）](https://github.com/liyayun713/FED/blob/master/ES6/spread.md)
+7. ES6中的 this 问题
 ## 八、浏览器
 1. [浏览器的结构组成](https://github.com/liyayun713/FED/blob/master/Browser/Browser.md)  
 2. 浏览器解析过程 浏览器工作原理
@@ -176,6 +187,7 @@
 ## 十七、版本管理
 1. [Git](https://github.com/liyayun713/FED/blob/master/VersionManagement/Git.md)
 2. SVN
+3. Git大型项目的团队合作，以及持续集成应用
 ## 十八、源码解读
 1. Vue
 2. Jquery
