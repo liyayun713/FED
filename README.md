@@ -140,6 +140,8 @@
 8. TCP三次握手
 9. websocket
 10. 三次握手，四次挥手
+11. HTTPS
+12. 状态码 200 和 304 的区别
 ## 十一、web存储
 1. [前端本地存储 (cookie、localStorage、sessionStorage)](https://github.com/liyayun713/FED/blob/master/storage/cookie_localStorage_sessionStorage.md)
 2. indexDB
@@ -164,10 +166,9 @@
 5. ios输入框input默认光标和height相同，解决方案，设置padding，把height设置小一点
 6. 弹出键盘引起的bug
 ## 十五、web安全
-1. HTTPS<br>
-2. XSS<br>
-3. XSRF<br>
-4. SQL注入<br>
+1. XSS
+2. XSRF
+3. SQL注入
 ## 十六、Canvas
 1. 绘制散点曲线
 2. 高阶贝塞尔曲线拟合
@@ -237,7 +238,7 @@
  <li>五本技术书籍+三本其他书籍</li>
  <li>做一个微信小游戏</li>
  <li>个人网站上线</li>
- <li>跳槽到一家优质的公司</li>
+ <li>跳槽到一家优质的公司(首选阿里0.0)</li>
  <li>学习摄影</li>
  <li>学习区块链、比特币</li>
  <li>股市小试牛刀</li>
