@@ -29,6 +29,7 @@
 27. [getBoundingClientRect](https://github.com/liyayun713/GET_FE/blob/master/js/getBoundingClientRect.md)
 28. [DOM事件中target和currentTarget的区别](https://github.com/liyayun713/GET_FE/blob/master/js/target_currentTarget.md)
 29. compositionstart 和 compositionend 事件
+
 ## 二、CSS篇
 1. [Flex弹性布局语法篇](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md) --- [Flex弹性布局实例篇](https://github.com/liyayun713/FED/blob/master/CSS/FlexExample.md)
 2. Grid栅格布局
@@ -48,10 +49,12 @@
 16. [如何使用css画一个正方体](https://github.com/liyayun713/FED/blob/master/CSS/Cube.md)
 17. viewport、rem原理
 18. animation 和 transiton 的相关属性
+
 ## 三、HTML篇
 1. HTML5新特性
 2. [常用meta标签总结](https://github.com/liyayun713/FED/blob/master/HTML/meta.md)
 3. [audio 标签](https://github.com/liyayun713/FED/blob/master/HTML/audio.md)
+
 ## 四、综合
 1. [从输入URL到页面加载过程](https://github.com/liyayun713/FED/blob/master/FED/UrlLoadProcedure.md)<br>
 2. [跨域](https://github.com/liyayun713/GET_FE/blob/master/FED/cross-domain.md)<br>
@@ -98,6 +101,7 @@
 12. webpack的一些原理和机制，怎么实现的
 13. babel把ES6转成ES5或者ES3之类的原理是什
 14. [package.json中 dependcies 和 devDependcies 的区别](https://github.com/liyayun713/GET_FE/blob/master/webpack/packageJson.md)
+
 ## 六、Vue
 1. [双向数据绑定原理](https://github.com/liyayun713/FED/blob/master/Vue/data-bind.md)
 2. [vuex](https://github.com/liyayun713/FED/blob/master/Vue/vuex.md)
@@ -114,6 +118,7 @@
 13. [Vue的各种watch监听](https://github.com/liyayun713/FED/blob/master/Vue/watch.md)
 14. vue的缺点是什么？
 15. [vue概述](https://github.com/liyayun713/FED/blob/master/Vue/VueSummary.md)
+
 ## 七、ES6
 0. [ES6 和 Babel](https://github.com/liyayun713/FED/blob/master/ES6/ES6&Babel.md)
 1. promise 手写一个ajax的promise封装
@@ -123,6 +128,7 @@
 5. [ES6常用语法](https://github.com/liyayun713/FED/blob/master/ES6/ES6.md)
 6. [扩展运算符（...）](https://github.com/liyayun713/FED/blob/master/ES6/spread.md)
 7. ES6中的 this 问题
+
 ## 八、浏览器
 1. [浏览器的结构组成](https://github.com/liyayun713/FED/blob/master/Browser/Browser.md)  
 2. 浏览器解析过程 浏览器工作原理
@@ -137,11 +143,13 @@
 11. [移动端浏览器大集合](https://github.com/liyayun713/FED/blob/master/Browser/MobileBrowser.md)
 12. 主流浏览器内核介绍
 13. [V8引擎](https://github.com/liyayun713/FED/blob/master/v8.md)
+
 ## 九、性能优化
 1. 前段性能监控
 2. 动画卡顿的性能优化
+
 ## 十、网络相关
-1. ajax
+1. Ajax
 2. [HTTP协议](https://github.com/liyayun713/FED/blob/master/network/http.md)
 3. [HTTP常用状态码](https://github.com/liyayun713/FED/blob/master/network/HttpStatusCode.md)
 4. [各种请求类型的区别 get post](https://github.com/liyayun713/FED/blob/master/network/get-post.md)
@@ -152,16 +160,21 @@
 9. websocket
 10. 三次握手，四次挥手
 11. [HTTPS](https://github.com/liyayun713/FED/blob/master/network/https.md)
-12. 状态码 200 和 304 的区别
+
 ## 十一、web存储
 1. [前端本地存储 (cookie、localStorage、sessionStorage)](https://github.com/liyayun713/FED/blob/master/storage/cookie_localStorage_sessionStorage.md)
 2. indexDB
-3. HTTP缓存
+3. [浏览器HTTP缓存（200与304区别）](https://github.com/liyayun713/FED/blob/master/storage/http-cache.md)
+4. 服务器缓存
+5. CDN缓存
+6. 数据库数据缓存
+
 ## 十二、模块化
 1. AMD CMD cocommonJS
 2. requirejs seajs
 3. import export es6的跟其他模块化的区别
 4. [MVC MVVM MVP](https://github.com/liyayun713/FED/blob/master/Module/mvcMvpMvvm.md)
+
 ## 十三、移动端相关
 1. [移动布局方案](https://github.com/liyayun713/FED/blob/master/mobile/Layout-scheme.md)
 2. 响应式开发
@@ -169,6 +182,7 @@
 4. GPU渲染
 5. SPA首屏空白原因
 6. 移动端1px边框原理及实现
+
 ## 十四、兼容性专题（PC、移动）
 1. 移动端输入键盘会把fixed定位挤上去
 2. 不同浏览器会对input表单设置一个默认的border和宽度
@@ -176,45 +190,61 @@
 4. border-color使用linear-gradient时有的浏览器会默认一个border，解决方案：设置border: 0
 5. ios输入框input默认光标和height相同，解决方案，设置padding，把height设置小一点
 6. 弹出键盘引起的bug
+
 ## 十五、web安全
 1. XSS
 2. XSRF
 3. SQL注入
+
 ## 十六、Canvas
 1. 绘制散点曲线
 2. 高阶贝塞尔曲线拟合
 3. 监听点击事件
+
 ## 十七、版本管理
 1. [Git](https://github.com/liyayun713/FED/blob/master/VersionManagement/Git.md)
 2. SVN
 3. Git大型项目的团队合作，以及持续集成应用
+
 ## 十八、源码解读
 1. Vue
 2. Jquery
 3. Angular
 4. Zepto
+
 ## 十九、Angular
+
 ## 二十、Underscore
   [1、如何写自己的Underscore](https://github.com/liyayun713/FED/blob/master/Underscore/UnderscoreDIY.md)
+  
 ## 二十一、Bootstrap Sass Less
+
 ## 二十二、小程序、微信公众号
   1、微信小程序  
   2、微信公众号
+  
 ## 二十三、SEO
+
 ## 二十四、Node.js
 [详见我的《深入浅出NodeJs读书笔记》](https://github.com/liyayun713/Head-First-NodeJs)  
 1. express  
 2. koa
 3. setImmediate 和Process.nextTick 的区别
+
 ## 二十五、Photoshop
+
 ## 二十六、SQL
+
 ## 二十七、算法相关
 1. 线性顺序存储结构和链式存储结构
 2. 二分查找的时间复杂度怎么计算
 3. 快速排序和二分查找
 4. 二叉树、链表
+
 ## 二十八、jQuery
+
 ## 二十九、WebGL
+
 ## 三十、React
 [详见我的《React 学习笔记》](https://github.com/liyayun713/React)
 * react 组件生命周期
@@ -234,7 +264,9 @@
 * react大概也就问了这么写，别的就是具体的业务场景改怎么写代码怎么分析，比较不大众，这里我就我细说了。其实也就考验你的项目经验吧。当然，还有一些react Native的面试题，比如常用组件，和原生如何通信之类的，这些就有赞问的多，但是因为RN玩的不是很透彻，所以对于交互原理都不是很明白。
 
 ## 三十一、Typescript
+
 ## 三十二、PWA
+
 ## 三十三、WebAssembly
 
 ```html
