@@ -142,7 +142,7 @@
 2. 动画卡顿的性能优化
 ## 十、网络相关
 1. ajax
-2. [http协议](https://github.com/liyayun713/FED/blob/master/network/http.md)
+2. [HTTP协议](https://github.com/liyayun713/FED/blob/master/network/http.md)
 3. [HTTP常用状态码](https://github.com/liyayun713/FED/blob/master/network/HttpStatusCode.md)
 4. [各种请求类型的区别 get post](https://github.com/liyayun713/FED/blob/master/network/get-post.md)
 5. XHR和http区别
@@ -151,7 +151,7 @@
 8. TCP三次握手
 9. websocket
 10. 三次握手，四次挥手
-11. HTTPS
+11. [HTTPS](https://github.com/liyayun713/FED/blob/master/network/https.md)
 12. 状态码 200 和 304 的区别
 ## 十一、web存储
 1. [前端本地存储 (cookie、localStorage、sessionStorage)](https://github.com/liyayun713/FED/blob/master/storage/cookie_localStorage_sessionStorage.md)
