@@ -120,6 +120,18 @@
 13. [Vue的各种watch监听](https://github.com/liyayun713/FED/blob/master/Vue/watch.md)
 14. vue的缺点是什么？
 15. [vue概述](https://github.com/liyayun713/FED/blob/master/Vue/VueSummary.md)
+16. 路由变化页面数据不刷新问题
+17. setTimeout/setInterval this指向改变，无法用this访问VUe实例
+18. setInterval路由跳转继续运行并没有销毁
+19. vue 滚动行为(浏览器回退记忆位置)用法
+20. vue路由拦截浏览器后退实现草稿保存类似需求
+21. v-once 只渲染元素和组件一次，优化更新渲染性能
+22. vue框架风格指南推荐
+
+作者：OBKoro1
+链接：https://juejin.im/post/5a587b46f265da3e3b7a7677
+来源：掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 ## 八、ES6
 0. [ES6 和 Babel](https://github.com/liyayun713/FED/blob/master/ES6/ES6&Babel.md)
