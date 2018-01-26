@@ -128,11 +128,6 @@
 21. v-once 只渲染元素和组件一次，优化更新渲染性能
 22. vue框架风格指南推荐
 
-作者：OBKoro1
-链接：https://juejin.im/post/5a587b46f265da3e3b7a7677
-来源：掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
 ## 八、ES6
 0. [ES6 和 Babel](https://github.com/liyayun713/FED/blob/master/ES6/ES6&Babel.md)
 1. promise 手写一个ajax的promise封装
