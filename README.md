@@ -102,6 +102,8 @@
 12. webpack的一些原理和机制，怎么实现的
 13. babel把ES6转成ES5或者ES3之类的原理是什
 14. [package.json中 dependcies 和 devDependcies 的区别](https://github.com/liyayun713/GET_FE/blob/master/webpack/packageJson.md)
+15. HMR
+16. 样式预编译
 
 ## 六、Babel
 
