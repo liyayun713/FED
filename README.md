@@ -171,7 +171,7 @@
 11. [HTTPS](https://github.com/liyayun713/FED/blob/master/network/https.md)
 
 ## 十二、web存储
-1. [前端本地存储 (cookie、localStorage、sessionStorage)](https://github.com/liyayun713/FED/blob/master/storage/cookie_localStorage_sessionStorage.md)
+1. [session、cookie、localStorage、sessionStorage](https://github.com/liyayun713/FED/blob/master/storage/cookie_localStorage_sessionStorage.md)
 2. indexDB
 3. [浏览器HTTP缓存（200与304区别）](https://github.com/liyayun713/FED/blob/master/storage/http-cache.md)
 4. 服务器缓存
