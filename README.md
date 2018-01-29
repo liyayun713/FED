@@ -130,6 +130,7 @@
 20. vue路由拦截浏览器后退实现草稿保存类似需求
 21. v-once 只渲染元素和组件一次，优化更新渲染性能
 22. vue框架风格指南推荐
+23. 新版本升级的方向及API
 
 ## 八、ES6
 0. [ES6 和 Babel](https://github.com/liyayun713/FED/blob/master/ES6/ES6&Babel.md)
