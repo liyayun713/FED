@@ -29,6 +29,7 @@
 27. [getBoundingClientRect](https://github.com/liyayun713/GET_FE/blob/master/js/getBoundingClientRect.md)
 28. [DOM事件中target和currentTarget的区别](https://github.com/liyayun713/GET_FE/blob/master/js/target_currentTarget.md)
 29. compositionstart 和 compositionend 事件
+30. 垃圾回收机制
 
 ## 二、CSS篇
 1. [Flex弹性布局语法篇](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md) --- [Flex弹性布局实例篇](https://github.com/liyayun713/FED/blob/master/CSS/FlexExample.md)
