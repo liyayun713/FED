@@ -1,5 +1,7 @@
 # 前端那些事儿
 
+:zap:
+
 ## 一、JS篇
 1. [this call apply bind](https://github.com/liyayun713/GET_FE/blob/master/js/this%20call%20apply%20bind.md)
 2. 原型 原型链 继承
