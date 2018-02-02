@@ -1,6 +1,8 @@
 # 前端那些事儿
 
 :zap:
+:dart:
+:art:
 
 ## 一、JS篇
 1. [this call apply bind](https://github.com/liyayun713/GET_FE/blob/master/js/this%20call%20apply%20bind.md)
