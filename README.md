@@ -290,6 +290,12 @@
 
 ## 三十四、WebAssembly
 
+## 三十五、前端新技术
+1. HTML5.2新标签dialog
+2. Grid布局
+3. Parcel：超快的Web应用打包器
+4. PWA
+
 ```html
 <h1>2018-TodoList</h1>
 <p>写于2018年01月02日</p>
