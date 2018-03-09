@@ -35,6 +35,7 @@
 29. compositionstart 和 compositionend 事件
 30. 垃圾回收机制
 31. createElement
+21. JS中浮点数精度问题
 
 ## 二、CSS篇
 1. [Flex弹性布局语法篇](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md) --- [Flex弹性布局实例篇](https://github.com/liyayun713/FED/blob/master/CSS/FlexExample.md)
