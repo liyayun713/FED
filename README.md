@@ -128,7 +128,7 @@
 11. [keep-alive组件的使用及其原理](https://github.com/liyayun713/FED/blob/master/Vue/keep-alive.md)
 12. [created 和 mounted 的差异](https://github.com/liyayun713/FED/blob/master/Vue/CreatedMounted.md)
 13. [Vue的各种watch监听](https://github.com/liyayun713/FED/blob/master/Vue/watch.md)
-14. vue的缺点是什么？
+14. vue的优点和缺点是什么？
 15. [vue概述](https://github.com/liyayun713/FED/blob/master/Vue/VueSummary.md)
 16. 路由变化页面数据不刷新问题
 17. setTimeout/setInterval this指向改变，无法用this访问VUe实例
@@ -138,6 +138,9 @@
 21. v-once 只渲染元素和组件一次，优化更新渲染性能
 22. vue框架风格指南推荐
 23. 新版本升级的方向及API
+24. 什么是MVVM？和MVC的区别？
+25. 生命周期
+26. data选项为什么是一个函数return一个对象？
 
 ## 八、ES6
 0. [ES6 和 Babel](https://github.com/liyayun713/FED/blob/master/ES6/ES6&Babel.md)
