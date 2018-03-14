@@ -311,7 +311,7 @@
  <li>坚持学习前端，每月github提交天数大于20</li>
  <li>学习React.js</li>
  <li>深入学习Node、Mongodb</li>
- <li>学习Python，扒取热门网站数据</li>
+ <li>学习Python</li>
  <li>学习Java</li>
  <li>Github上有项目star破百</li>
  <li>五本技术书籍+三本其他书籍</li>
@@ -329,6 +329,7 @@
  <li>去一趟澳门</li>
  <li>少操心政治</li>
  <li>看房子，了解房市</li>
+ <li>了解爬虫、人工智能、大数据、工业4.0</li>
 </ul>
 ```
 
