@@ -142,6 +142,7 @@
 24. 什么是MVVM？和MVC的区别？
 25. 生命周期
 26. data选项为什么是一个函数return一个对象？
+27. 首屏加载、SEO问题
 
 ## 八、ES6
 0. [ES6 和 Babel](https://github.com/liyayun713/FED/blob/master/ES6/ES6&Babel.md)
