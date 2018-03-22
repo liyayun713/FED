@@ -35,7 +35,13 @@
 29. compositionstart 和 compositionend 事件
 30. 垃圾回收机制
 31. createElement
-21. JS中浮点数精度问题
+32. JS中浮点数精度问题
+33. 怎么发送一个跨域的POST请求？
+34. 注册登录流程有了解过吗？前端做注册登录流程详细描述一下？
+35. 为什么cookie不安全？token怎么生成的？
+36. 面向对象设计题，一个借书还书系统需要哪些类，属性，方法（需要考虑很多情况）
+37. CDN有了解吗？怎么让请求在最近的站点下载？
+38. 事件委托原理
 
 ## 二、CSS篇
 1. [Flex弹性布局语法篇](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md) --- [Flex弹性布局实例篇](https://github.com/liyayun713/FED/blob/master/CSS/FlexExample.md)
@@ -60,6 +66,7 @@
 20. less、sass、stylus区别
 21. css选择器有哪些
 22. 浏览器CSS Hack手段有哪些？
+23. 只允许使用css，让一个页面原有dom不可见
 
 ## 三、HTML篇
 1. HTML5新特性
@@ -115,6 +122,8 @@
 14. [package.json中 dependcies 和 devDependcies 的区别](https://github.com/liyayun713/GET_FE/blob/master/webpack/packageJson.md)
 15. HMR
 16. 样式预编译
+17. Webpack和Gulp的区别是什么？
+18. 怎么去解决用Webpack打包后的项目体积过大的问题？
 
 ## 六、Babel
 
@@ -146,6 +155,11 @@
 25. 生命周期
 26. data选项为什么是一个函数return一个对象？
 27. 首屏加载、SEO问题
+28. Vue中两个数据a,b，a渲染在页面上，b没有，此时有函数操作了b，问组件是否触发重新渲染？
+29. Vue中父组件向子组件传递对象，子组件改动此对象是否影响父组件中的那个对象？
+30. Vue中v-for绑定key值问题？
+31. 虚拟DOM和真实DOM的区别
+32. 不使用框架和虚拟DOM怎么解决真实DOM所带来的性能问题
 
 ## 八、ES6
 0. [ES6 和 Babel](https://github.com/liyayun713/FED/blob/master/ES6/ES6&Babel.md)
@@ -156,6 +170,7 @@
 5. [ES6常用语法](https://github.com/liyayun713/FED/blob/master/ES6/ES6.md)
 6. [扩展运算符（...）](https://github.com/liyayun713/FED/blob/master/ES6/spread.md)
 7. ES6中的 this 问题
+8. 为什么const定义一个数组与对象，仍然可以对其操作?
 
 ## 九、浏览器
 1. [浏览器的结构组成](https://github.com/liyayun713/FED/blob/master/Browser/Browser.md)  
@@ -189,6 +204,7 @@
 9. websocket
 10. 三次握手，四次挥手
 11. [HTTPS](https://github.com/liyayun713/FED/blob/master/network/https.md)
+12. HTTP响应头组成结构？
 
 ## 十二、web存储
 1. [session、cookie、localStorage、sessionStorage](https://github.com/liyayun713/FED/blob/master/storage/cookie_localStorage_sessionStorage.md)
@@ -197,6 +213,7 @@
 4. 服务器缓存
 5. CDN缓存
 6. 数据库数据缓存
+7. Cookie与Session的区别？
 
 ## 十三、模块化
 1. AMD CMD cocommonJS
@@ -240,6 +257,7 @@
 ## 十九、源码解读
 1. Vue
 2. Jquery
+> JQuery的bind()和on()方法的区别？
 3. Angular
 4. Zepto
 
