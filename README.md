@@ -42,6 +42,7 @@
 36. 面向对象设计题，一个借书还书系统需要哪些类，属性，方法（需要考虑很多情况）
 37. CDN有了解吗？怎么让请求在最近的站点下载？
 38. 事件委托原理
+39. 栈和堆得区别是什么
 
 ## 二、CSS篇
 1. [Flex弹性布局语法篇](https://github.com/liyayun713/FED/blob/master/CSS/Flex.md) --- [Flex弹性布局实例篇](https://github.com/liyayun713/FED/blob/master/CSS/FlexExample.md)
