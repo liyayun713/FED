@@ -1,4 +1,4 @@
-# this call apply bind
+# this、call、apply、bind
 ### this 永远指向最后调用它的那个对象
 ```js
 var name = "windowsName";
