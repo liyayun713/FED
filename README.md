@@ -255,9 +255,9 @@
 3. 监听点击事件
 
 ## 十八、版本管理
-1. [Git](https://github.com/liyayun713/FED/blob/master/VersionManagement/Git.md)
-2. SVN
-3. Git大型项目的团队合作，以及持续集成应用
+* [Git](https://github.com/liyayun713/FED/blob/master/VersionManagement/Git.md)
+* SVN
+* Git大型项目的团队合作，以及持续集成应用
 
 ## 十九、源码解读
 1. Vue
